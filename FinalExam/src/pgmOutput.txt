@@ -1,0 +1,78 @@
+  Database of Bank Accounts
+Account Number      Balance             
+300313              $135.27              
+666666              $355.00              
+373722              $121.83              
+111111              $957.54              
+123456              $872.66              
+800813              $888.33              
+700007              $123.89              
+
+Error: y is an invalid menu selection. Try again.
+
+Transaction Requested: Get Account Balance
+Account Number: 700007
+Current Balance: $123.89
+
+Transaction Requested: Get Account Balance
+Account Number: 444444
+Error: Account number 444444 does not exist.
+
+Transaction Requested: Make Deposit
+Account Number: 300313
+Old Balance: $135.27
+Amount to Deposit: $106.58
+Current Balance: $241.85
+
+Transaction Requested: Make Deposit
+Account Number: 222222
+Error: Account number 222222 does not exist.
+
+Transaction Requested: Make Deposit
+Account Number: 666666
+Old Balance: $355.00
+Amount to Deposit: $-155.29
+Error: $-155.29 is a negative amount.
+
+Transaction Requested: Make Withdrawal
+Account Number: 111111
+Old Balance: $957.54
+Amount to Withdraw: $85.19
+Current Balance: $872.35
+
+Transaction Requested: Make Withdrawal
+Account Number: 888888
+Error: Account number 888888 does not exist.
+
+Transaction Requested: Make Withdrawal
+Account Number: 123456
+Old Balance: $872.66
+Amount to Withdraw: $-33.33
+Error: $-33.33 is a negative amount.
+
+Transaction Requested: Make Withdrawal
+Account Number: 800813
+Old Balance: $888.33
+Amount to Withdraw: $1245.73
+Error: You do not have sufficient funds to withdraw $1245.73 from your account.
+
+Transaction Requested: Add Interest
+Account Number: 373722
+Old Balance: $121.83
+Interest Rate: 3.65%
+Current Balance: $126.28
+
+Transaction Requested: Add Interest
+Account Number: 101010
+Error: Account number 101010 does not exist.
+
+  Database of Bank Accounts
+Account Number      Balance             
+300313              $241.85              
+666666              $355.00              
+373722              $126.28              
+111111              $872.35              
+123456              $872.66              
+800813              $888.33              
+700007              $123.89              
+
