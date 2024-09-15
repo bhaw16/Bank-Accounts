@@ -1,0 +1,4388 @@
+
+                                                            Database of Bank Accounts
+
+               Total Balance: $57026.00       Total Savings Balance: $42926.18      Total Checking Balance: $10139.88            Total CD Balance: $3959.94
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+Turner              Tina                219508355           123456              Savings             N/A                 Open                $ 34567.99
+
+Zolanski            Roman               333444555           999999              CD                  11/27/2023          Open                $   345.96
+
+Icely               Gabriella           333123789           987654              CD                  8/31/2022           Open                $   255.85
+
+Suzumura            Sango               605411333           456789              CD                  5/5/2020            Open                $   355.00
+
+Maraj               Onika               109873747           111666              CD                  7/7/2017            Open                $  3003.13
+
+Stephens            Alyssa              819777777           777777              Checking            N/A                 Open                $     0.00
+
+Dlamini             Amala-Ratna         300031766           323232              Savings             N/A                 Open                $     0.00
+
+Leray               Coi                 871298666           979797              Checking            N/A                 Open                $     0.00
+
+Maraj               Onika               109873747           222555              Checking            N/A                 Open                $  9999.99
+
+Maraj               Onika               109873747           333444              Savings             N/A                 Open                $  8356.09
+
+Nelson              Jesy                307231006           555555              Checking            N/A                 Open                $   102.05
+
+Natsuumi            Manatsu             835490326           774628              Savings             N/A                 Open                $     2.10
+
+Suzumura            Sango               605411333           333999              Checking            N/A                 Open                $    37.84
+
+Error: v is an invalid selection. Try again.
+
+Error: z is an invalid selection. Try again.
+
+Account Number: 100000
+Transaction Requested: Balance Inquiry
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Error: Account number 100000 does not exist.
+Pre Transaction Balance: $0.00
+Post Transaction Balance: $0.00
+New Maturity Date: N/A
+
+Account Number: 123456
+Transaction Requested: Balance Inquiry
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $34567.99
+Post Transaction Balance: $34567.99
+New Maturity Date: N/A
+
+Account Number: 999999
+Transaction Requested: Balance Inquiry
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: 11/27/2023
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $345.96
+Post Transaction Balance: $345.96
+New Maturity Date: N/A
+
+Account Number: 666666
+Transaction Requested: Balance Inquiry
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Error: Account number 666666 does not exist.
+Pre Transaction Balance: $0.00
+Post Transaction Balance: $0.00
+New Maturity Date: N/A
+
+
+Transaction Requested: Account Info w/o Transaction History
+SSN: 000000000
+Transaction Date: 12/3/2022
+
+Error: No accounts exist for this SSN.
+
+
+Transaction Requested: Account Info w/o Transaction History
+SSN: 109873747
+Transaction Date: 12/3/2022
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+Maraj               Onika               109873747           111666              CD                  7/7/2017            Open                $  3003.13
+
+Maraj               Onika               109873747           222555              Checking            N/A                 Open                $  9999.99
+
+Maraj               Onika               109873747           333444              Savings             N/A                 Open                $  8356.09
+
+
+
+Transaction Requested: Account Info w/o Transaction History
+SSN: 605411333
+Transaction Date: 12/3/2022
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+Suzumura            Sango               605411333           456789              CD                  5/5/2020            Open                $   355.00
+
+Suzumura            Sango               605411333           333999              Checking            N/A                 Open                $    37.84
+
+
+
+Transaction Requested: Account Info w/o Transaction History
+SSN: 333123789
+Transaction Date: 12/3/2022
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+Icely               Gabriella           333123789           987654              CD                  8/31/2022           Open                $   255.85
+
+
+
+Transaction Requested: Account Info plus Transaction History
+SSN: 000000000
+Transaction Date: 12/3/2022
+
+Error: No accounts exist for this SSN.
+
+
+Transaction Requested: Account Info plus Transaction History
+SSN: 109873747
+Transaction Date: 12/3/2022
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+
+Maraj               Onika               109873747           111666              CD                  7/7/2017            Open                $  3003.13
+
+
+                                        Transaction History for Account Number 111666
+
+Account Number: 111666
+Transaction Requested: New Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $3003.13
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $0.00
+Post Transaction Balance: $3003.13
+New Maturity Date: 7/7/2017
+
+
+Maraj               Onika               109873747           222555              Checking            N/A                 Open                $  9999.99
+
+
+                                        Transaction History for Account Number 222555
+
+Account Number: 222555
+Transaction Requested: New Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $9999.99
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $0.00
+Post Transaction Balance: $9999.99
+New Maturity Date: N/A
+
+
+Maraj               Onika               109873747           333444              Savings             N/A                 Open                $  8356.09
+
+
+                                        Transaction History for Account Number 333444
+
+Account Number: 333444
+Transaction Requested: New Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $8356.09
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $0.00
+Post Transaction Balance: $8356.09
+New Maturity Date: N/A
+
+
+
+Transaction Requested: Account Info plus Transaction History
+SSN: 605411333
+Transaction Date: 12/3/2022
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+
+Suzumura            Sango               605411333           456789              CD                  5/5/2020            Open                $   355.00
+
+
+                                        Transaction History for Account Number 456789
+
+Account Number: 456789
+Transaction Requested: New Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $355.00
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $0.00
+Post Transaction Balance: $355.00
+New Maturity Date: 5/5/2020
+
+
+Suzumura            Sango               605411333           333999              Checking            N/A                 Open                $    37.84
+
+
+                                        Transaction History for Account Number 333999
+
+Account Number: 333999
+Transaction Requested: New Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $37.84
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $0.00
+Post Transaction Balance: $37.84
+New Maturity Date: N/A
+
+
+
+Transaction Requested: Account Info plus Transaction History
+SSN: 333123789
+Transaction Date: 12/3/2022
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+
+Icely               Gabriella           333123789           987654              CD                  8/31/2022           Open                $   255.85
+
+
+                                        Transaction History for Account Number 987654
+
+Account Number: 987654
+Transaction Requested: New Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $255.85
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $0.00
+Post Transaction Balance: $255.85
+New Maturity Date: 8/31/2022
+
+
+Account Number: 888888
+Transaction Requested: Deposit
+Date of Transaction: 12/3/2022
+Amount of Transaction: $-9.54
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Error: Account number 888888 does not exist.
+Pre Transaction Balance: $0.00
+Post Transaction Balance: $0.00
+New Maturity Date: N/A
+
+Account Number: 111666
+Transaction Requested: Deposit
+Date of Transaction: 12/3/2022
+Amount of Transaction: $-9.54
+Date of Check: N/A
+Old Maturity Date: 7/7/2017
+Success: No
+Reason for Failure/Message: Error: $-9.54 is an invalid amount.
+Pre Transaction Balance: $3003.13
+Post Transaction Balance: $3003.13
+New Maturity Date: N/A
+
+Account Number: 111666
+Transaction Requested: Deposit
+Date of Transaction: 12/3/2022
+Amount of Transaction: $67.58
+Date of Check: N/A
+Old Maturity Date: 7/7/2017
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $3003.13
+Post Transaction Balance: $3070.71
+New Maturity Date: 12/3/2023
+
+Account Number: 111666
+Transaction Requested: Deposit
+Date of Transaction: 12/3/2022
+Amount of Transaction: $-9.54
+Date of Check: N/A
+Old Maturity Date: 12/3/2023
+Success: No
+Reason for Failure/Message: Error: This CD has not matured yet. Try again at a later date.
+Pre Transaction Balance: $3070.71
+Post Transaction Balance: $3070.71
+New Maturity Date: N/A
+
+Account Number: 111666
+Transaction Requested: Close Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: 12/3/2023
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $3070.71
+Post Transaction Balance: $3070.71
+New Maturity Date: N/A
+
+
+                                                            Database of Bank Accounts
+
+               Total Balance: $57093.58       Total Savings Balance: $42926.18      Total Checking Balance: $10139.88            Total CD Balance: $4027.52
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+Turner              Tina                219508355           123456              Savings             N/A                 Open                $ 34567.99
+
+Zolanski            Roman               333444555           999999              CD                  11/27/2023          Open                $   345.96
+
+Icely               Gabriella           333123789           987654              CD                  8/31/2022           Open                $   255.85
+
+Suzumura            Sango               605411333           456789              CD                  5/5/2020            Open                $   355.00
+
+Maraj               Onika               109873747           111666              CD                  12/3/2023           Closed              $  3070.71
+
+Stephens            Alyssa              819777777           777777              Checking            N/A                 Open                $     0.00
+
+Dlamini             Amala-Ratna         300031766           323232              Savings             N/A                 Open                $     0.00
+
+Leray               Coi                 871298666           979797              Checking            N/A                 Open                $     0.00
+
+Maraj               Onika               109873747           222555              Checking            N/A                 Open                $  9999.99
+
+Maraj               Onika               109873747           333444              Savings             N/A                 Open                $  8356.09
+
+Nelson              Jesy                307231006           555555              Checking            N/A                 Open                $   102.05
+
+Natsuumi            Manatsu             835490326           774628              Savings             N/A                 Open                $     2.10
+
+Suzumura            Sango               605411333           333999              Checking            N/A                 Open                $    37.84
+
+Account Number: 111666
+Transaction Requested: Close Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: 12/3/2023
+Success: No
+Reason for Failure/Message: Account number 111666 is already closed.
+Pre Transaction Balance: $3070.71
+Post Transaction Balance: $3070.71
+New Maturity Date: N/A
+
+
+                                                            Database of Bank Accounts
+
+               Total Balance: $57093.58       Total Savings Balance: $42926.18      Total Checking Balance: $10139.88            Total CD Balance: $4027.52
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+Turner              Tina                219508355           123456              Savings             N/A                 Open                $ 34567.99
+
+Zolanski            Roman               333444555           999999              CD                  11/27/2023          Open                $   345.96
+
+Icely               Gabriella           333123789           987654              CD                  8/31/2022           Open                $   255.85
+
+Suzumura            Sango               605411333           456789              CD                  5/5/2020            Open                $   355.00
+
+Maraj               Onika               109873747           111666              CD                  12/3/2023           Closed              $  3070.71
+
+Stephens            Alyssa              819777777           777777              Checking            N/A                 Open                $     0.00
+
+Dlamini             Amala-Ratna         300031766           323232              Savings             N/A                 Open                $     0.00
+
+Leray               Coi                 871298666           979797              Checking            N/A                 Open                $     0.00
+
+Maraj               Onika               109873747           222555              Checking            N/A                 Open                $  9999.99
+
+Maraj               Onika               109873747           333444              Savings             N/A                 Open                $  8356.09
+
+Nelson              Jesy                307231006           555555              Checking            N/A                 Open                $   102.05
+
+Natsuumi            Manatsu             835490326           774628              Savings             N/A                 Open                $     2.10
+
+Suzumura            Sango               605411333           333999              Checking            N/A                 Open                $    37.84
+
+Account Number: 111666
+Transaction Requested: Balance Inquiry
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: 12/3/2023
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $3070.71
+Post Transaction Balance: $3070.71
+New Maturity Date: N/A
+
+Account Number: 111666
+Transaction Requested: Deposit
+Date of Transaction: 12/3/2022
+Amount of Transaction: $67.58
+Date of Check: N/A
+Old Maturity Date: 12/3/2023
+Success: No
+Reason for Failure/Message: Error: Account number 111666 is closed.
+Pre Transaction Balance: $3070.71
+Post Transaction Balance: $3070.71
+New Maturity Date: N/A
+
+Account Number: 111666
+Transaction Requested: Reopen Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: 12/3/2023
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $3070.71
+Post Transaction Balance: $3070.71
+New Maturity Date: N/A
+
+
+                                                            Database of Bank Accounts
+
+               Total Balance: $57093.58       Total Savings Balance: $42926.18      Total Checking Balance: $10139.88            Total CD Balance: $4027.52
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+Turner              Tina                219508355           123456              Savings             N/A                 Open                $ 34567.99
+
+Zolanski            Roman               333444555           999999              CD                  11/27/2023          Open                $   345.96
+
+Icely               Gabriella           333123789           987654              CD                  8/31/2022           Open                $   255.85
+
+Suzumura            Sango               605411333           456789              CD                  5/5/2020            Open                $   355.00
+
+Maraj               Onika               109873747           111666              CD                  12/3/2023           Open                $  3070.71
+
+Stephens            Alyssa              819777777           777777              Checking            N/A                 Open                $     0.00
+
+Dlamini             Amala-Ratna         300031766           323232              Savings             N/A                 Open                $     0.00
+
+Leray               Coi                 871298666           979797              Checking            N/A                 Open                $     0.00
+
+Maraj               Onika               109873747           222555              Checking            N/A                 Open                $  9999.99
+
+Maraj               Onika               109873747           333444              Savings             N/A                 Open                $  8356.09
+
+Nelson              Jesy                307231006           555555              Checking            N/A                 Open                $   102.05
+
+Natsuumi            Manatsu             835490326           774628              Savings             N/A                 Open                $     2.10
+
+Suzumura            Sango               605411333           333999              Checking            N/A                 Open                $    37.84
+
+Error: 4 months is an invalid maturity date. Try again.
+Error: 8 months is an invalid maturity date. Try again.
+Account Number: 111666
+Transaction Requested: Deposit
+Date of Transaction: 12/3/2022
+Amount of Transaction: $67.58
+Date of Check: N/A
+Old Maturity Date: 12/3/2023
+Success: No
+Reason for Failure/Message: Error: This CD has not matured yet. Try again at a later date.
+Pre Transaction Balance: $3070.71
+Post Transaction Balance: $3070.71
+New Maturity Date: N/A
+
+Account Number: 774628
+Transaction Requested: Deposit
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Error: $0.00 is an invalid amount.
+Pre Transaction Balance: $2.10
+Post Transaction Balance: $2.10
+New Maturity Date: N/A
+
+Account Number: 774628
+Transaction Requested: Deposit
+Date of Transaction: 12/3/2022
+Amount of Transaction: $-3.33
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Error: $-3.33 is an invalid amount.
+Pre Transaction Balance: $2.10
+Post Transaction Balance: $2.10
+New Maturity Date: N/A
+
+Account Number: 774628
+Transaction Requested: Deposit
+Date of Transaction: 12/3/2022
+Amount of Transaction: $3.33
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $2.10
+Post Transaction Balance: $5.43
+New Maturity Date: N/A
+
+Account Number: 333999
+Transaction Requested: Deposit
+Date of Transaction: 12/3/2022
+Amount of Transaction: $80.69
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $37.84
+Post Transaction Balance: $118.53
+New Maturity Date: N/A
+
+Account Number: 100000
+Transaction Requested: Balance Inquiry
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Error: Account number 100000 does not exist.
+Pre Transaction Balance: $0.00
+Post Transaction Balance: $0.00
+New Maturity Date: N/A
+
+Account Number: 100000
+Transaction Requested: Withdrawal
+Date of Transaction: 12/3/2022
+Amount of Transaction: $13.42
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Error: Account number 100000 does not exist.
+Pre Transaction Balance: $0.00
+Post Transaction Balance: $0.00
+New Maturity Date: N/A
+
+Account Number: 456789
+Transaction Requested: Withdrawal
+Date of Transaction: 12/3/2022
+Amount of Transaction: $-1.99
+Date of Check: N/A
+Old Maturity Date: 5/5/2020
+Success: No
+Reason for Failure/Message: Error: $-1.99 is an invalid amount.
+Pre Transaction Balance: $355.00
+Post Transaction Balance: $355.00
+New Maturity Date: N/A
+
+Account Number: 774628
+Transaction Requested: Withdrawal
+Date of Transaction: 12/3/2022
+Amount of Transaction: $-30.00
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Error: $-30.00 is an invalid amount.
+Pre Transaction Balance: $5.43
+Post Transaction Balance: $5.43
+New Maturity Date: N/A
+
+Account Number: 774628
+Transaction Requested: Withdrawal
+Date of Transaction: 12/3/2022
+Amount of Transaction: $10.99
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Error: You do not have sufficient funds to withdraw $10.99 from your account.
+Pre Transaction Balance: $5.43
+Post Transaction Balance: $5.43
+New Maturity Date: N/A
+
+Account Number: 333999
+Transaction Requested: Withdrawal
+Date of Transaction: 12/3/2022
+Amount of Transaction: $40.00
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: You have incurred a $1.50 service fee because your account balance is below $2500.00.
+Pre Transaction Balance: $118.53
+Post Transaction Balance: $77.03
+New Maturity Date: N/A
+
+Error: 11 months is an invalid maturity date. Try again.
+Account Number: 456789
+Transaction Requested: Withdrawal
+Date of Transaction: 12/3/2022
+Amount of Transaction: $355.00
+Date of Check: N/A
+Old Maturity Date: 5/5/2020
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $355.00
+Post Transaction Balance: $0.00
+New Maturity Date: 6/3/2024
+
+Account Number: 456789
+Transaction Requested: Close Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: 6/3/2024
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $0.00
+Post Transaction Balance: $0.00
+New Maturity Date: N/A
+
+
+                                                            Database of Bank Accounts
+
+               Total Balance: $56781.10       Total Savings Balance: $42929.51      Total Checking Balance: $10179.07            Total CD Balance: $3672.52
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+Turner              Tina                219508355           123456              Savings             N/A                 Open                $ 34567.99
+
+Zolanski            Roman               333444555           999999              CD                  11/27/2023          Open                $   345.96
+
+Icely               Gabriella           333123789           987654              CD                  8/31/2022           Open                $   255.85
+
+Suzumura            Sango               605411333           456789              CD                  6/3/2024            Closed              $     0.00
+
+Maraj               Onika               109873747           111666              CD                  12/3/2023           Open                $  3070.71
+
+Stephens            Alyssa              819777777           777777              Checking            N/A                 Open                $     0.00
+
+Dlamini             Amala-Ratna         300031766           323232              Savings             N/A                 Open                $     0.00
+
+Leray               Coi                 871298666           979797              Checking            N/A                 Open                $     0.00
+
+Maraj               Onika               109873747           222555              Checking            N/A                 Open                $  9999.99
+
+Maraj               Onika               109873747           333444              Savings             N/A                 Open                $  8356.09
+
+Nelson              Jesy                307231006           555555              Checking            N/A                 Open                $   102.05
+
+Natsuumi            Manatsu             835490326           774628              Savings             N/A                 Open                $     5.43
+
+Suzumura            Sango               605411333           333999              Checking            N/A                 Open                $    77.03
+
+Account Number: 456789
+Transaction Requested: Withdrawal
+Date of Transaction: 12/3/2022
+Amount of Transaction: $13.42
+Date of Check: N/A
+Old Maturity Date: 6/3/2024
+Success: No
+Reason for Failure/Message: Error: Account number 456789 is closed.
+Pre Transaction Balance: $0.00
+Post Transaction Balance: $0.00
+New Maturity Date: N/A
+
+Account Number: 456789
+Transaction Requested: Reopen Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: 6/3/2024
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $0.00
+Post Transaction Balance: $0.00
+New Maturity Date: N/A
+
+
+                                                            Database of Bank Accounts
+
+               Total Balance: $56781.10       Total Savings Balance: $42929.51      Total Checking Balance: $10179.07            Total CD Balance: $3672.52
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+Turner              Tina                219508355           123456              Savings             N/A                 Open                $ 34567.99
+
+Zolanski            Roman               333444555           999999              CD                  11/27/2023          Open                $   345.96
+
+Icely               Gabriella           333123789           987654              CD                  8/31/2022           Open                $   255.85
+
+Suzumura            Sango               605411333           456789              CD                  6/3/2024            Open                $     0.00
+
+Maraj               Onika               109873747           111666              CD                  12/3/2023           Open                $  3070.71
+
+Stephens            Alyssa              819777777           777777              Checking            N/A                 Open                $     0.00
+
+Dlamini             Amala-Ratna         300031766           323232              Savings             N/A                 Open                $     0.00
+
+Leray               Coi                 871298666           979797              Checking            N/A                 Open                $     0.00
+
+Maraj               Onika               109873747           222555              Checking            N/A                 Open                $  9999.99
+
+Maraj               Onika               109873747           333444              Savings             N/A                 Open                $  8356.09
+
+Nelson              Jesy                307231006           555555              Checking            N/A                 Open                $   102.05
+
+Natsuumi            Manatsu             835490326           774628              Savings             N/A                 Open                $     5.43
+
+Suzumura            Sango               605411333           333999              Checking            N/A                 Open                $    77.03
+
+Error: 11 months is an invalid maturity date. Try again.
+Account Number: 456789
+Transaction Requested: Withdrawal
+Date of Transaction: 12/3/2022
+Amount of Transaction: $13.42
+Date of Check: N/A
+Old Maturity Date: 6/3/2024
+Success: No
+Reason for Failure/Message: Error: This CD has not matured yet. Try again at a later date.
+Pre Transaction Balance: $0.00
+Post Transaction Balance: $0.00
+New Maturity Date: N/A
+
+Account Number: 100000
+Transaction Requested: Clear Check
+Date of Transaction: 12/3/2022
+Amount of Transaction: $1.00
+Date of Check: 5/5/2022
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Error: Account number 100000 does not exist.
+Pre Transaction Balance: $0.00
+Post Transaction Balance: $0.00
+New Maturity Date: N/A
+
+Account Number: 111666
+Transaction Requested: Clear Check
+Date of Transaction: 12/3/2022
+Amount of Transaction: $1.00
+Date of Check: 5/5/2022
+Old Maturity Date: 12/3/2023
+Success: No
+Reason for Failure/Message: Error: Account number 111666 is not a checking account.
+Pre Transaction Balance: $3070.71
+Post Transaction Balance: $3070.71
+New Maturity Date: N/A
+
+Account Number: 555555
+Transaction Requested: Clear Check
+Date of Transaction: 12/3/2022
+Amount of Transaction: $1.00
+Date of Check: 5/5/2022
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Error: This check is older than 6 months.
+Pre Transaction Balance: $102.05
+Post Transaction Balance: $102.05
+New Maturity Date: N/A
+
+Account Number: 555555
+Transaction Requested: Clear Check
+Date of Transaction: 12/3/2022
+Amount of Transaction: $1.00
+Date of Check: 5/5/2023
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Error: The date of this check has not been reached yet.
+Pre Transaction Balance: $102.05
+Post Transaction Balance: $102.05
+New Maturity Date: N/A
+
+Account Number: 555555
+Transaction Requested: Clear Check
+Date of Transaction: 12/3/2022
+Amount of Transaction: $1.00
+Date of Check: 6/1/2022
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Error: This check is older than 6 months.
+Pre Transaction Balance: $102.05
+Post Transaction Balance: $102.05
+New Maturity Date: N/A
+
+Account Number: 323232
+Transaction Requested: Clear Check
+Date of Transaction: 12/3/2022
+Amount of Transaction: $1.00
+Date of Check: 6/1/2022
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Error: Account number 323232 is not a checking account.
+Pre Transaction Balance: $0.00
+Post Transaction Balance: $0.00
+New Maturity Date: N/A
+
+Account Number: 222555
+Transaction Requested: Clear Check
+Date of Transaction: 12/3/2022
+Amount of Transaction: $1.00
+Date of Check: 5/5/2022
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Error: This check is older than 6 months.
+Pre Transaction Balance: $9999.99
+Post Transaction Balance: $9999.99
+New Maturity Date: N/A
+
+Account Number: 222555
+Transaction Requested: Clear Check
+Date of Transaction: 12/3/2022
+Amount of Transaction: $1.00
+Date of Check: 5/5/2027
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Error: The date of this check has not been reached yet.
+Pre Transaction Balance: $9999.99
+Post Transaction Balance: $9999.99
+New Maturity Date: N/A
+
+Account Number: 222555
+Transaction Requested: Clear Check
+Date of Transaction: 12/3/2022
+Amount of Transaction: $1.00
+Date of Check: 6/1/2022
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Error: This check is older than 6 months.
+Pre Transaction Balance: $9999.99
+Post Transaction Balance: $9999.99
+New Maturity Date: N/A
+
+Account Number: 333999
+Transaction Requested: Clear Check
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: 6/1/2022
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Error: This check is older than 6 months.
+Pre Transaction Balance: $77.03
+Post Transaction Balance: $77.03
+New Maturity Date: N/A
+
+Account Number: 333999
+Transaction Requested: Clear Check
+Date of Transaction: 12/3/2022
+Amount of Transaction: $-15.16
+Date of Check: 6/1/2022
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Error: This check is older than 6 months.
+Pre Transaction Balance: $77.03
+Post Transaction Balance: $77.03
+New Maturity Date: N/A
+
+Account Number: 333999
+Transaction Requested: Clear Check
+Date of Transaction: 12/3/2022
+Amount of Transaction: $15.16
+Date of Check: 6/1/2022
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Error: This check is older than 6 months.
+Pre Transaction Balance: $77.03
+Post Transaction Balance: $77.03
+New Maturity Date: N/A
+
+Account Number: 333999
+Transaction Requested: Withdrawal
+Date of Transaction: 12/3/2022
+Amount of Transaction: $10.05
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: You have incurred a $1.50 service fee because your account balance is below $2500.00.
+Pre Transaction Balance: $77.03
+Post Transaction Balance: $65.48
+New Maturity Date: N/A
+
+Account Number: 555555
+Transaction Requested: Close Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $102.05
+Post Transaction Balance: $102.05
+New Maturity Date: N/A
+
+
+                                                            Database of Bank Accounts
+
+               Total Balance: $56769.55       Total Savings Balance: $42929.51      Total Checking Balance: $10167.52            Total CD Balance: $3672.52
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+Turner              Tina                219508355           123456              Savings             N/A                 Open                $ 34567.99
+
+Zolanski            Roman               333444555           999999              CD                  11/27/2023          Open                $   345.96
+
+Icely               Gabriella           333123789           987654              CD                  8/31/2022           Open                $   255.85
+
+Suzumura            Sango               605411333           456789              CD                  6/3/2024            Open                $     0.00
+
+Maraj               Onika               109873747           111666              CD                  12/3/2023           Open                $  3070.71
+
+Stephens            Alyssa              819777777           777777              Checking            N/A                 Open                $     0.00
+
+Dlamini             Amala-Ratna         300031766           323232              Savings             N/A                 Open                $     0.00
+
+Leray               Coi                 871298666           979797              Checking            N/A                 Open                $     0.00
+
+Maraj               Onika               109873747           222555              Checking            N/A                 Open                $  9999.99
+
+Maraj               Onika               109873747           333444              Savings             N/A                 Open                $  8356.09
+
+Nelson              Jesy                307231006           555555              Checking            N/A                 Closed              $   102.05
+
+Natsuumi            Manatsu             835490326           774628              Savings             N/A                 Open                $     5.43
+
+Suzumura            Sango               605411333           333999              Checking            N/A                 Open                $    65.48
+
+Account Number: 555555
+Transaction Requested: Close Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Account number 555555 is already closed.
+Pre Transaction Balance: $102.05
+Post Transaction Balance: $102.05
+New Maturity Date: N/A
+
+
+                                                            Database of Bank Accounts
+
+               Total Balance: $56769.55       Total Savings Balance: $42929.51      Total Checking Balance: $10167.52            Total CD Balance: $3672.52
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+Turner              Tina                219508355           123456              Savings             N/A                 Open                $ 34567.99
+
+Zolanski            Roman               333444555           999999              CD                  11/27/2023          Open                $   345.96
+
+Icely               Gabriella           333123789           987654              CD                  8/31/2022           Open                $   255.85
+
+Suzumura            Sango               605411333           456789              CD                  6/3/2024            Open                $     0.00
+
+Maraj               Onika               109873747           111666              CD                  12/3/2023           Open                $  3070.71
+
+Stephens            Alyssa              819777777           777777              Checking            N/A                 Open                $     0.00
+
+Dlamini             Amala-Ratna         300031766           323232              Savings             N/A                 Open                $     0.00
+
+Leray               Coi                 871298666           979797              Checking            N/A                 Open                $     0.00
+
+Maraj               Onika               109873747           222555              Checking            N/A                 Open                $  9999.99
+
+Maraj               Onika               109873747           333444              Savings             N/A                 Open                $  8356.09
+
+Nelson              Jesy                307231006           555555              Checking            N/A                 Closed              $   102.05
+
+Natsuumi            Manatsu             835490326           774628              Savings             N/A                 Open                $     5.43
+
+Suzumura            Sango               605411333           333999              Checking            N/A                 Open                $    65.48
+
+Account Number: 555555
+Transaction Requested: Balance Inquiry
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $102.05
+Post Transaction Balance: $102.05
+New Maturity Date: N/A
+
+Account Number: 555555
+Transaction Requested: Clear Check
+Date of Transaction: 12/3/2022
+Amount of Transaction: $110.00
+Date of Check: 6/1/2022
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Error: Account number 555555 is closed.
+Pre Transaction Balance: $102.05
+Post Transaction Balance: $102.05
+New Maturity Date: N/A
+
+Account Number: 555555
+Transaction Requested: Reopen Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $102.05
+Post Transaction Balance: $102.05
+New Maturity Date: N/A
+
+
+                                                            Database of Bank Accounts
+
+               Total Balance: $56769.55       Total Savings Balance: $42929.51      Total Checking Balance: $10167.52            Total CD Balance: $3672.52
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+Turner              Tina                219508355           123456              Savings             N/A                 Open                $ 34567.99
+
+Zolanski            Roman               333444555           999999              CD                  11/27/2023          Open                $   345.96
+
+Icely               Gabriella           333123789           987654              CD                  8/31/2022           Open                $   255.85
+
+Suzumura            Sango               605411333           456789              CD                  6/3/2024            Open                $     0.00
+
+Maraj               Onika               109873747           111666              CD                  12/3/2023           Open                $  3070.71
+
+Stephens            Alyssa              819777777           777777              Checking            N/A                 Open                $     0.00
+
+Dlamini             Amala-Ratna         300031766           323232              Savings             N/A                 Open                $     0.00
+
+Leray               Coi                 871298666           979797              Checking            N/A                 Open                $     0.00
+
+Maraj               Onika               109873747           222555              Checking            N/A                 Open                $  9999.99
+
+Maraj               Onika               109873747           333444              Savings             N/A                 Open                $  8356.09
+
+Nelson              Jesy                307231006           555555              Checking            N/A                 Open                $   102.05
+
+Natsuumi            Manatsu             835490326           774628              Savings             N/A                 Open                $     5.43
+
+Suzumura            Sango               605411333           333999              Checking            N/A                 Open                $    65.48
+
+Account Number: 555555
+Transaction Requested: Reopen Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Account number 555555 is already open.
+Pre Transaction Balance: $102.05
+Post Transaction Balance: $102.05
+New Maturity Date: N/A
+
+
+                                                            Database of Bank Accounts
+
+               Total Balance: $56769.55       Total Savings Balance: $42929.51      Total Checking Balance: $10167.52            Total CD Balance: $3672.52
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+Turner              Tina                219508355           123456              Savings             N/A                 Open                $ 34567.99
+
+Zolanski            Roman               333444555           999999              CD                  11/27/2023          Open                $   345.96
+
+Icely               Gabriella           333123789           987654              CD                  8/31/2022           Open                $   255.85
+
+Suzumura            Sango               605411333           456789              CD                  6/3/2024            Open                $     0.00
+
+Maraj               Onika               109873747           111666              CD                  12/3/2023           Open                $  3070.71
+
+Stephens            Alyssa              819777777           777777              Checking            N/A                 Open                $     0.00
+
+Dlamini             Amala-Ratna         300031766           323232              Savings             N/A                 Open                $     0.00
+
+Leray               Coi                 871298666           979797              Checking            N/A                 Open                $     0.00
+
+Maraj               Onika               109873747           222555              Checking            N/A                 Open                $  9999.99
+
+Maraj               Onika               109873747           333444              Savings             N/A                 Open                $  8356.09
+
+Nelson              Jesy                307231006           555555              Checking            N/A                 Open                $   102.05
+
+Natsuumi            Manatsu             835490326           774628              Savings             N/A                 Open                $     5.43
+
+Suzumura            Sango               605411333           333999              Checking            N/A                 Open                $    65.48
+
+Account Number: 555555
+Transaction Requested: Clear Check
+Date of Transaction: 12/3/2022
+Amount of Transaction: $110.00
+Date of Check: 6/1/2022
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Error: This check is older than 6 months.
+Pre Transaction Balance: $102.05
+Post Transaction Balance: $102.05
+New Maturity Date: N/A
+
+
+Transaction Requested: Account Info w/o Transaction History
+SSN: 307231006
+Transaction Date: 12/3/2022
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+Nelson              Jesy                307231006           555555              Checking            N/A                 Open                $   102.05
+
+
+Account Number: 333999
+Transaction Requested: New Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $5.00
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Account number 333999 already exists.
+Pre Transaction Balance: $65.48
+Post Transaction Balance: $65.48
+New Maturity Date: N/A
+
+
+                                                            Database of Bank Accounts
+
+               Total Balance: $56769.55       Total Savings Balance: $42929.51      Total Checking Balance: $10167.52            Total CD Balance: $3672.52
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+Turner              Tina                219508355           123456              Savings             N/A                 Open                $ 34567.99
+
+Zolanski            Roman               333444555           999999              CD                  11/27/2023          Open                $   345.96
+
+Icely               Gabriella           333123789           987654              CD                  8/31/2022           Open                $   255.85
+
+Suzumura            Sango               605411333           456789              CD                  6/3/2024            Open                $     0.00
+
+Maraj               Onika               109873747           111666              CD                  12/3/2023           Open                $  3070.71
+
+Stephens            Alyssa              819777777           777777              Checking            N/A                 Open                $     0.00
+
+Dlamini             Amala-Ratna         300031766           323232              Savings             N/A                 Open                $     0.00
+
+Leray               Coi                 871298666           979797              Checking            N/A                 Open                $     0.00
+
+Maraj               Onika               109873747           222555              Checking            N/A                 Open                $  9999.99
+
+Maraj               Onika               109873747           333444              Savings             N/A                 Open                $  8356.09
+
+Nelson              Jesy                307231006           555555              Checking            N/A                 Open                $   102.05
+
+Natsuumi            Manatsu             835490326           774628              Savings             N/A                 Open                $     5.43
+
+Suzumura            Sango               605411333           333999              Checking            N/A                 Open                $    65.48
+
+Account Number: 111666
+Transaction Requested: New Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $5.00
+Date of Check: N/A
+Old Maturity Date: 12/3/2023
+Success: No
+Reason for Failure/Message: Account number 111666 already exists.
+Pre Transaction Balance: $3070.71
+Post Transaction Balance: $3070.71
+New Maturity Date: N/A
+
+
+                                                            Database of Bank Accounts
+
+               Total Balance: $56769.55       Total Savings Balance: $42929.51      Total Checking Balance: $10167.52            Total CD Balance: $3672.52
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+Turner              Tina                219508355           123456              Savings             N/A                 Open                $ 34567.99
+
+Zolanski            Roman               333444555           999999              CD                  11/27/2023          Open                $   345.96
+
+Icely               Gabriella           333123789           987654              CD                  8/31/2022           Open                $   255.85
+
+Suzumura            Sango               605411333           456789              CD                  6/3/2024            Open                $     0.00
+
+Maraj               Onika               109873747           111666              CD                  12/3/2023           Open                $  3070.71
+
+Stephens            Alyssa              819777777           777777              Checking            N/A                 Open                $     0.00
+
+Dlamini             Amala-Ratna         300031766           323232              Savings             N/A                 Open                $     0.00
+
+Leray               Coi                 871298666           979797              Checking            N/A                 Open                $     0.00
+
+Maraj               Onika               109873747           222555              Checking            N/A                 Open                $  9999.99
+
+Maraj               Onika               109873747           333444              Savings             N/A                 Open                $  8356.09
+
+Nelson              Jesy                307231006           555555              Checking            N/A                 Open                $   102.05
+
+Natsuumi            Manatsu             835490326           774628              Savings             N/A                 Open                $     5.43
+
+Suzumura            Sango               605411333           333999              Checking            N/A                 Open                $    65.48
+
+Account Number: 444444
+Transaction Requested: New Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $5.00
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $0.00
+Post Transaction Balance: $5.00
+New Maturity Date: N/A
+
+
+                                                            Database of Bank Accounts
+
+               Total Balance: $56774.55       Total Savings Balance: $42934.51      Total Checking Balance: $10167.52            Total CD Balance: $3672.52
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+Turner              Tina                219508355           123456              Savings             N/A                 Open                $ 34567.99
+
+Zolanski            Roman               333444555           999999              CD                  11/27/2023          Open                $   345.96
+
+Icely               Gabriella           333123789           987654              CD                  8/31/2022           Open                $   255.85
+
+Suzumura            Sango               605411333           456789              CD                  6/3/2024            Open                $     0.00
+
+Maraj               Onika               109873747           111666              CD                  12/3/2023           Open                $  3070.71
+
+Stephens            Alyssa              819777777           777777              Checking            N/A                 Open                $     0.00
+
+Dlamini             Amala-Ratna         300031766           323232              Savings             N/A                 Open                $     0.00
+
+Leray               Coi                 871298666           979797              Checking            N/A                 Open                $     0.00
+
+Maraj               Onika               109873747           222555              Checking            N/A                 Open                $  9999.99
+
+Maraj               Onika               109873747           333444              Savings             N/A                 Open                $  8356.09
+
+Nelson              Jesy                307231006           555555              Checking            N/A                 Open                $   102.05
+
+Natsuumi            Manatsu             835490326           774628              Savings             N/A                 Open                $     5.43
+
+Suzumura            Sango               605411333           333999              Checking            N/A                 Open                $    65.48
+
+Izayoi              Lauren              231876565           444444              Savings             N/A                 Open                $     5.00
+
+Account Number: 444444
+Transaction Requested: Balance Inquiry
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $5.00
+Post Transaction Balance: $5.00
+New Maturity Date: N/A
+
+Account Number: 444444
+Transaction Requested: Deposit
+Date of Transaction: 12/3/2022
+Amount of Transaction: $-30.00
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Error: $-30.00 is an invalid amount.
+Pre Transaction Balance: $5.00
+Post Transaction Balance: $5.00
+New Maturity Date: N/A
+
+Account Number: 444444
+Transaction Requested: Deposit
+Date of Transaction: 12/3/2022
+Amount of Transaction: $127.85
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $5.00
+Post Transaction Balance: $132.85
+New Maturity Date: N/A
+
+Account Number: 444444
+Transaction Requested: Withdrawal
+Date of Transaction: 12/3/2022
+Amount of Transaction: $13.17
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $132.85
+Post Transaction Balance: $119.68
+New Maturity Date: N/A
+
+Account Number: 444444
+Transaction Requested: Withdrawal
+Date of Transaction: 12/3/2022
+Amount of Transaction: $-10.00
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Error: $-10.00 is an invalid amount.
+Pre Transaction Balance: $119.68
+Post Transaction Balance: $119.68
+New Maturity Date: N/A
+
+Account Number: 444444
+Transaction Requested: Balance Inquiry
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $119.68
+Post Transaction Balance: $119.68
+New Maturity Date: N/A
+
+Account Number: 100000
+Transaction Requested: Reopen Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Account number 100000 does not exist.
+Pre Transaction Balance: $0.00
+Post Transaction Balance: $0.00
+New Maturity Date: N/A
+
+
+                                                            Database of Bank Accounts
+
+               Total Balance: $56889.23       Total Savings Balance: $43049.19      Total Checking Balance: $10167.52            Total CD Balance: $3672.52
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+Turner              Tina                219508355           123456              Savings             N/A                 Open                $ 34567.99
+
+Zolanski            Roman               333444555           999999              CD                  11/27/2023          Open                $   345.96
+
+Icely               Gabriella           333123789           987654              CD                  8/31/2022           Open                $   255.85
+
+Suzumura            Sango               605411333           456789              CD                  6/3/2024            Open                $     0.00
+
+Maraj               Onika               109873747           111666              CD                  12/3/2023           Open                $  3070.71
+
+Stephens            Alyssa              819777777           777777              Checking            N/A                 Open                $     0.00
+
+Dlamini             Amala-Ratna         300031766           323232              Savings             N/A                 Open                $     0.00
+
+Leray               Coi                 871298666           979797              Checking            N/A                 Open                $     0.00
+
+Maraj               Onika               109873747           222555              Checking            N/A                 Open                $  9999.99
+
+Maraj               Onika               109873747           333444              Savings             N/A                 Open                $  8356.09
+
+Nelson              Jesy                307231006           555555              Checking            N/A                 Open                $   102.05
+
+Natsuumi            Manatsu             835490326           774628              Savings             N/A                 Open                $     5.43
+
+Suzumura            Sango               605411333           333999              Checking            N/A                 Open                $    65.48
+
+Izayoi              Lauren              231876565           444444              Savings             N/A                 Open                $   119.68
+
+
+Transaction Requested: Account Info w/o Transaction History
+SSN: 231876565
+Transaction Date: 12/3/2022
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+Izayoi              Lauren              231876565           444444              Savings             N/A                 Open                $   119.68
+
+
+Account Number: 212121
+Transaction Requested: New Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $1000.50
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $0.00
+Post Transaction Balance: $1000.50
+New Maturity Date: N/A
+
+
+                                                            Database of Bank Accounts
+
+               Total Balance: $57889.73       Total Savings Balance: $44049.69      Total Checking Balance: $10167.52            Total CD Balance: $3672.52
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+Turner              Tina                219508355           123456              Savings             N/A                 Open                $ 34567.99
+
+Zolanski            Roman               333444555           999999              CD                  11/27/2023          Open                $   345.96
+
+Icely               Gabriella           333123789           987654              CD                  8/31/2022           Open                $   255.85
+
+Suzumura            Sango               605411333           456789              CD                  6/3/2024            Open                $     0.00
+
+Maraj               Onika               109873747           111666              CD                  12/3/2023           Open                $  3070.71
+
+Stephens            Alyssa              819777777           777777              Checking            N/A                 Open                $     0.00
+
+Dlamini             Amala-Ratna         300031766           323232              Savings             N/A                 Open                $     0.00
+
+Leray               Coi                 871298666           979797              Checking            N/A                 Open                $     0.00
+
+Maraj               Onika               109873747           222555              Checking            N/A                 Open                $  9999.99
+
+Maraj               Onika               109873747           333444              Savings             N/A                 Open                $  8356.09
+
+Nelson              Jesy                307231006           555555              Checking            N/A                 Open                $   102.05
+
+Natsuumi            Manatsu             835490326           774628              Savings             N/A                 Open                $     5.43
+
+Suzumura            Sango               605411333           333999              Checking            N/A                 Open                $    65.48
+
+Izayoi              Lauren              231876565           444444              Savings             N/A                 Open                $   119.68
+
+Pete                Megan               547463803           212121              Savings             N/A                 Open                $  1000.50
+
+
+Transaction Requested: Account Info w/o Transaction History
+SSN: 447463803
+Transaction Date: 12/3/2022
+
+Error: No accounts exist for this SSN.
+
+
+Transaction Requested: Account Info w/o Transaction History
+SSN: 547463803
+Transaction Date: 12/3/2022
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+Pete                Megan               547463803           212121              Savings             N/A                 Open                $  1000.50
+
+
+Account Number: 212121
+Transaction Requested: Deposit
+Date of Transaction: 12/3/2022
+Amount of Transaction: $10.00
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $1000.50
+Post Transaction Balance: $1010.50
+New Maturity Date: N/A
+
+Account Number: 212121
+Transaction Requested: Balance Inquiry
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $1010.50
+Post Transaction Balance: $1010.50
+New Maturity Date: N/A
+
+Account Number: 212121
+Transaction Requested: Withdrawal
+Date of Transaction: 12/3/2022
+Amount of Transaction: $7.48
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $1010.50
+Post Transaction Balance: $1003.02
+New Maturity Date: N/A
+
+Account Number: 999999
+Transaction Requested: Deposit
+Date of Transaction: 12/3/2022
+Amount of Transaction: $1267.88
+Date of Check: N/A
+Old Maturity Date: 11/27/2023
+Success: No
+Reason for Failure/Message: Error: This CD has not matured yet. Try again at a later date.
+Pre Transaction Balance: $345.96
+Post Transaction Balance: $345.96
+New Maturity Date: N/A
+
+Account Number: 100000
+Transaction Requested: Close Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Account number 100000 does not exist.
+Pre Transaction Balance: $0.00
+Post Transaction Balance: $0.00
+New Maturity Date: N/A
+
+
+                                                            Database of Bank Accounts
+
+               Total Balance: $57892.25       Total Savings Balance: $44052.21      Total Checking Balance: $10167.52            Total CD Balance: $3672.52
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+Turner              Tina                219508355           123456              Savings             N/A                 Open                $ 34567.99
+
+Zolanski            Roman               333444555           999999              CD                  11/27/2023          Open                $   345.96
+
+Icely               Gabriella           333123789           987654              CD                  8/31/2022           Open                $   255.85
+
+Suzumura            Sango               605411333           456789              CD                  6/3/2024            Open                $     0.00
+
+Maraj               Onika               109873747           111666              CD                  12/3/2023           Open                $  3070.71
+
+Stephens            Alyssa              819777777           777777              Checking            N/A                 Open                $     0.00
+
+Dlamini             Amala-Ratna         300031766           323232              Savings             N/A                 Open                $     0.00
+
+Leray               Coi                 871298666           979797              Checking            N/A                 Open                $     0.00
+
+Maraj               Onika               109873747           222555              Checking            N/A                 Open                $  9999.99
+
+Maraj               Onika               109873747           333444              Savings             N/A                 Open                $  8356.09
+
+Nelson              Jesy                307231006           555555              Checking            N/A                 Open                $   102.05
+
+Natsuumi            Manatsu             835490326           774628              Savings             N/A                 Open                $     5.43
+
+Suzumura            Sango               605411333           333999              Checking            N/A                 Open                $    65.48
+
+Izayoi              Lauren              231876565           444444              Savings             N/A                 Open                $   119.68
+
+Pete                Megan               547463803           212121              Savings             N/A                 Open                $  1003.02
+
+Error: Money-Market is an invalid account type. Try again.
+Account Number: 100000
+Transaction Requested: New Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $523.23
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $0.00
+Post Transaction Balance: $523.23
+New Maturity Date: 12/3/2024
+
+
+                                                            Database of Bank Accounts
+
+               Total Balance: $58415.48       Total Savings Balance: $44052.21      Total Checking Balance: $10167.52            Total CD Balance: $4195.75
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+Turner              Tina                219508355           123456              Savings             N/A                 Open                $ 34567.99
+
+Zolanski            Roman               333444555           999999              CD                  11/27/2023          Open                $   345.96
+
+Icely               Gabriella           333123789           987654              CD                  8/31/2022           Open                $   255.85
+
+Suzumura            Sango               605411333           456789              CD                  6/3/2024            Open                $     0.00
+
+Maraj               Onika               109873747           111666              CD                  12/3/2023           Open                $  3070.71
+
+Stephens            Alyssa              819777777           777777              Checking            N/A                 Open                $     0.00
+
+Dlamini             Amala-Ratna         300031766           323232              Savings             N/A                 Open                $     0.00
+
+Leray               Coi                 871298666           979797              Checking            N/A                 Open                $     0.00
+
+Maraj               Onika               109873747           222555              Checking            N/A                 Open                $  9999.99
+
+Maraj               Onika               109873747           333444              Savings             N/A                 Open                $  8356.09
+
+Nelson              Jesy                307231006           555555              Checking            N/A                 Open                $   102.05
+
+Natsuumi            Manatsu             835490326           774628              Savings             N/A                 Open                $     5.43
+
+Suzumura            Sango               605411333           333999              Checking            N/A                 Open                $    65.48
+
+Izayoi              Lauren              231876565           444444              Savings             N/A                 Open                $   119.68
+
+Pete                Megan               547463803           212121              Savings             N/A                 Open                $  1003.02
+
+Pete                Megan               547463803           100000              CD                  12/3/2024           Open                $   523.23
+
+
+Transaction Requested: Account Info plus Transaction History
+SSN: 000000000
+Transaction Date: 12/3/2022
+
+Error: No accounts exist for this SSN.
+
+
+Transaction Requested: Account Info plus Transaction History
+SSN: 109873747
+Transaction Date: 12/3/2022
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+
+Maraj               Onika               109873747           111666              CD                  12/3/2023           Open                $  3070.71
+
+
+                                        Transaction History for Account Number 111666
+
+Account Number: 111666
+Transaction Requested: New Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $3003.13
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $0.00
+Post Transaction Balance: $3003.13
+New Maturity Date: 7/7/2017
+
+Account Number: 111666
+Transaction Requested: Deposit
+Date of Transaction: 12/3/2022
+Amount of Transaction: $-9.54
+Date of Check: N/A
+Old Maturity Date: 7/7/2017
+Success: No
+Reason for Failure/Message: Error: $-9.54 is an invalid amount.
+Pre Transaction Balance: $3003.13
+Post Transaction Balance: $3003.13
+New Maturity Date: N/A
+
+Account Number: 111666
+Transaction Requested: Deposit
+Date of Transaction: 12/3/2022
+Amount of Transaction: $67.58
+Date of Check: N/A
+Old Maturity Date: 7/7/2017
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $3003.13
+Post Transaction Balance: $3070.71
+New Maturity Date: 12/3/2023
+
+Account Number: 111666
+Transaction Requested: Deposit
+Date of Transaction: 12/3/2022
+Amount of Transaction: $-9.54
+Date of Check: N/A
+Old Maturity Date: 12/3/2023
+Success: No
+Reason for Failure/Message: Error: This CD has not matured yet. Try again at a later date.
+Pre Transaction Balance: $3070.71
+Post Transaction Balance: $3070.71
+New Maturity Date: N/A
+
+Account Number: 111666
+Transaction Requested: Close Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: 12/3/2023
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $3070.71
+Post Transaction Balance: $3070.71
+New Maturity Date: N/A
+
+Account Number: 111666
+Transaction Requested: Close Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: 12/3/2023
+Success: No
+Reason for Failure/Message: Account number 111666 is already closed.
+Pre Transaction Balance: $3070.71
+Post Transaction Balance: $3070.71
+New Maturity Date: N/A
+
+Account Number: 111666
+Transaction Requested: Balance Inquiry
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: 12/3/2023
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $3070.71
+Post Transaction Balance: $3070.71
+New Maturity Date: N/A
+
+Account Number: 111666
+Transaction Requested: Deposit
+Date of Transaction: 12/3/2022
+Amount of Transaction: $67.58
+Date of Check: N/A
+Old Maturity Date: 12/3/2023
+Success: No
+Reason for Failure/Message: Error: Account number 111666 is closed.
+Pre Transaction Balance: $3070.71
+Post Transaction Balance: $3070.71
+New Maturity Date: N/A
+
+Account Number: 111666
+Transaction Requested: Reopen Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: 12/3/2023
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $3070.71
+Post Transaction Balance: $3070.71
+New Maturity Date: N/A
+
+Account Number: 111666
+Transaction Requested: Deposit
+Date of Transaction: 12/3/2022
+Amount of Transaction: $67.58
+Date of Check: N/A
+Old Maturity Date: 12/3/2023
+Success: No
+Reason for Failure/Message: Error: This CD has not matured yet. Try again at a later date.
+Pre Transaction Balance: $3070.71
+Post Transaction Balance: $3070.71
+New Maturity Date: N/A
+
+Account Number: 111666
+Transaction Requested: Clear Check
+Date of Transaction: 12/3/2022
+Amount of Transaction: $1.00
+Date of Check: 5/5/2022
+Old Maturity Date: 12/3/2023
+Success: No
+Reason for Failure/Message: Error: Account number 111666 is not a checking account.
+Pre Transaction Balance: $3070.71
+Post Transaction Balance: $3070.71
+New Maturity Date: N/A
+
+
+Maraj               Onika               109873747           222555              Checking            N/A                 Open                $  9999.99
+
+
+                                        Transaction History for Account Number 222555
+
+Account Number: 222555
+Transaction Requested: New Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $9999.99
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $0.00
+Post Transaction Balance: $9999.99
+New Maturity Date: N/A
+
+Account Number: 222555
+Transaction Requested: Clear Check
+Date of Transaction: 12/3/2022
+Amount of Transaction: $1.00
+Date of Check: 5/5/2022
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Error: This check is older than 6 months.
+Pre Transaction Balance: $9999.99
+Post Transaction Balance: $9999.99
+New Maturity Date: N/A
+
+Account Number: 222555
+Transaction Requested: Clear Check
+Date of Transaction: 12/3/2022
+Amount of Transaction: $1.00
+Date of Check: 5/5/2027
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Error: The date of this check has not been reached yet.
+Pre Transaction Balance: $9999.99
+Post Transaction Balance: $9999.99
+New Maturity Date: N/A
+
+Account Number: 222555
+Transaction Requested: Clear Check
+Date of Transaction: 12/3/2022
+Amount of Transaction: $1.00
+Date of Check: 6/1/2022
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Error: This check is older than 6 months.
+Pre Transaction Balance: $9999.99
+Post Transaction Balance: $9999.99
+New Maturity Date: N/A
+
+
+Maraj               Onika               109873747           333444              Savings             N/A                 Open                $  8356.09
+
+
+                                        Transaction History for Account Number 333444
+
+Account Number: 333444
+Transaction Requested: New Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $8356.09
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $0.00
+Post Transaction Balance: $8356.09
+New Maturity Date: N/A
+
+
+
+Transaction Requested: Account Info plus Transaction History
+SSN: 605411333
+Transaction Date: 12/3/2022
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+
+Suzumura            Sango               605411333           456789              CD                  6/3/2024            Open                $     0.00
+
+
+                                        Transaction History for Account Number 456789
+
+Account Number: 456789
+Transaction Requested: New Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $355.00
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $0.00
+Post Transaction Balance: $355.00
+New Maturity Date: 5/5/2020
+
+Account Number: 456789
+Transaction Requested: Withdrawal
+Date of Transaction: 12/3/2022
+Amount of Transaction: $-1.99
+Date of Check: N/A
+Old Maturity Date: 5/5/2020
+Success: No
+Reason for Failure/Message: Error: $-1.99 is an invalid amount.
+Pre Transaction Balance: $355.00
+Post Transaction Balance: $355.00
+New Maturity Date: N/A
+
+Account Number: 456789
+Transaction Requested: Withdrawal
+Date of Transaction: 12/3/2022
+Amount of Transaction: $355.00
+Date of Check: N/A
+Old Maturity Date: 5/5/2020
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $355.00
+Post Transaction Balance: $0.00
+New Maturity Date: 6/3/2024
+
+Account Number: 456789
+Transaction Requested: Close Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: 6/3/2024
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $0.00
+Post Transaction Balance: $0.00
+New Maturity Date: N/A
+
+Account Number: 456789
+Transaction Requested: Withdrawal
+Date of Transaction: 12/3/2022
+Amount of Transaction: $13.42
+Date of Check: N/A
+Old Maturity Date: 6/3/2024
+Success: No
+Reason for Failure/Message: Error: Account number 456789 is closed.
+Pre Transaction Balance: $0.00
+Post Transaction Balance: $0.00
+New Maturity Date: N/A
+
+Account Number: 456789
+Transaction Requested: Reopen Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: 6/3/2024
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $0.00
+Post Transaction Balance: $0.00
+New Maturity Date: N/A
+
+Account Number: 456789
+Transaction Requested: Withdrawal
+Date of Transaction: 12/3/2022
+Amount of Transaction: $13.42
+Date of Check: N/A
+Old Maturity Date: 6/3/2024
+Success: No
+Reason for Failure/Message: Error: This CD has not matured yet. Try again at a later date.
+Pre Transaction Balance: $0.00
+Post Transaction Balance: $0.00
+New Maturity Date: N/A
+
+
+Suzumura            Sango               605411333           333999              Checking            N/A                 Open                $    65.48
+
+
+                                        Transaction History for Account Number 333999
+
+Account Number: 333999
+Transaction Requested: New Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $37.84
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $0.00
+Post Transaction Balance: $37.84
+New Maturity Date: N/A
+
+Account Number: 333999
+Transaction Requested: Deposit
+Date of Transaction: 12/3/2022
+Amount of Transaction: $80.69
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $37.84
+Post Transaction Balance: $118.53
+New Maturity Date: N/A
+
+Account Number: 333999
+Transaction Requested: Withdrawal
+Date of Transaction: 12/3/2022
+Amount of Transaction: $40.00
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: You have incurred a $1.50 service fee because your account balance is below $2500.00.
+Pre Transaction Balance: $118.53
+Post Transaction Balance: $77.03
+New Maturity Date: N/A
+
+Account Number: 333999
+Transaction Requested: Clear Check
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: 6/1/2022
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Error: This check is older than 6 months.
+Pre Transaction Balance: $77.03
+Post Transaction Balance: $77.03
+New Maturity Date: N/A
+
+Account Number: 333999
+Transaction Requested: Clear Check
+Date of Transaction: 12/3/2022
+Amount of Transaction: $-15.16
+Date of Check: 6/1/2022
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Error: This check is older than 6 months.
+Pre Transaction Balance: $77.03
+Post Transaction Balance: $77.03
+New Maturity Date: N/A
+
+Account Number: 333999
+Transaction Requested: Clear Check
+Date of Transaction: 12/3/2022
+Amount of Transaction: $15.16
+Date of Check: 6/1/2022
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Error: This check is older than 6 months.
+Pre Transaction Balance: $77.03
+Post Transaction Balance: $77.03
+New Maturity Date: N/A
+
+Account Number: 333999
+Transaction Requested: Withdrawal
+Date of Transaction: 12/3/2022
+Amount of Transaction: $10.05
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: You have incurred a $1.50 service fee because your account balance is below $2500.00.
+Pre Transaction Balance: $77.03
+Post Transaction Balance: $65.48
+New Maturity Date: N/A
+
+Account Number: 333999
+Transaction Requested: New Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $5.00
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Account number 333999 already exists.
+Pre Transaction Balance: $65.48
+Post Transaction Balance: $65.48
+New Maturity Date: N/A
+
+Account Number: 111666
+Transaction Requested: New Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $5.00
+Date of Check: N/A
+Old Maturity Date: 12/3/2023
+Success: No
+Reason for Failure/Message: Account number 111666 already exists.
+Pre Transaction Balance: $3070.71
+Post Transaction Balance: $3070.71
+New Maturity Date: N/A
+
+
+
+Transaction Requested: Account Info plus Transaction History
+SSN: 333123789
+Transaction Date: 12/3/2022
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+
+Icely               Gabriella           333123789           987654              CD                  8/31/2022           Open                $   255.85
+
+
+                                        Transaction History for Account Number 987654
+
+Account Number: 987654
+Transaction Requested: New Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $255.85
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $0.00
+Post Transaction Balance: $255.85
+New Maturity Date: 8/31/2022
+
+
+Account Number: 100000
+Transaction Requested: Withdrawal
+Date of Transaction: 12/3/2022
+Amount of Transaction: $8.74
+Date of Check: N/A
+Old Maturity Date: 12/3/2024
+Success: No
+Reason for Failure/Message: Error: This CD has not matured yet. Try again at a later date.
+Pre Transaction Balance: $523.23
+Post Transaction Balance: $523.23
+New Maturity Date: N/A
+
+Account Number: 100000
+Transaction Requested: Balance Inquiry
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: 12/3/2024
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $523.23
+Post Transaction Balance: $523.23
+New Maturity Date: N/A
+
+
+Transaction Requested: Account Info w/o Transaction History
+SSN: 547463803
+Transaction Date: 12/3/2022
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+Pete                Megan               547463803           212121              Savings             N/A                 Open                $  1003.02
+
+Pete                Megan               547463803           100000              CD                  12/3/2024           Open                $   523.23
+
+
+Account Number: 555555
+Transaction Requested: Delete Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Account number 555555 does not have a balance of $0.00
+Pre Transaction Balance: $102.05
+Post Transaction Balance: $102.05
+New Maturity Date: N/A
+
+
+                                                            Database of Bank Accounts
+
+               Total Balance: $58415.48       Total Savings Balance: $44052.21      Total Checking Balance: $10167.52            Total CD Balance: $4195.75
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+Turner              Tina                219508355           123456              Savings             N/A                 Open                $ 34567.99
+
+Zolanski            Roman               333444555           999999              CD                  11/27/2023          Open                $   345.96
+
+Icely               Gabriella           333123789           987654              CD                  8/31/2022           Open                $   255.85
+
+Suzumura            Sango               605411333           456789              CD                  6/3/2024            Open                $     0.00
+
+Maraj               Onika               109873747           111666              CD                  12/3/2023           Open                $  3070.71
+
+Stephens            Alyssa              819777777           777777              Checking            N/A                 Open                $     0.00
+
+Dlamini             Amala-Ratna         300031766           323232              Savings             N/A                 Open                $     0.00
+
+Leray               Coi                 871298666           979797              Checking            N/A                 Open                $     0.00
+
+Maraj               Onika               109873747           222555              Checking            N/A                 Open                $  9999.99
+
+Maraj               Onika               109873747           333444              Savings             N/A                 Open                $  8356.09
+
+Nelson              Jesy                307231006           555555              Checking            N/A                 Open                $   102.05
+
+Natsuumi            Manatsu             835490326           774628              Savings             N/A                 Open                $     5.43
+
+Suzumura            Sango               605411333           333999              Checking            N/A                 Open                $    65.48
+
+Izayoi              Lauren              231876565           444444              Savings             N/A                 Open                $   119.68
+
+Pete                Megan               547463803           212121              Savings             N/A                 Open                $  1003.02
+
+Pete                Megan               547463803           100000              CD                  12/3/2024           Open                $   523.23
+
+Account Number: 774628
+Transaction Requested: Delete Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Account number 774628 does not have a balance of $0.00
+Pre Transaction Balance: $5.43
+Post Transaction Balance: $5.43
+New Maturity Date: N/A
+
+
+                                                            Database of Bank Accounts
+
+               Total Balance: $58415.48       Total Savings Balance: $44052.21      Total Checking Balance: $10167.52            Total CD Balance: $4195.75
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+Turner              Tina                219508355           123456              Savings             N/A                 Open                $ 34567.99
+
+Zolanski            Roman               333444555           999999              CD                  11/27/2023          Open                $   345.96
+
+Icely               Gabriella           333123789           987654              CD                  8/31/2022           Open                $   255.85
+
+Suzumura            Sango               605411333           456789              CD                  6/3/2024            Open                $     0.00
+
+Maraj               Onika               109873747           111666              CD                  12/3/2023           Open                $  3070.71
+
+Stephens            Alyssa              819777777           777777              Checking            N/A                 Open                $     0.00
+
+Dlamini             Amala-Ratna         300031766           323232              Savings             N/A                 Open                $     0.00
+
+Leray               Coi                 871298666           979797              Checking            N/A                 Open                $     0.00
+
+Maraj               Onika               109873747           222555              Checking            N/A                 Open                $  9999.99
+
+Maraj               Onika               109873747           333444              Savings             N/A                 Open                $  8356.09
+
+Nelson              Jesy                307231006           555555              Checking            N/A                 Open                $   102.05
+
+Natsuumi            Manatsu             835490326           774628              Savings             N/A                 Open                $     5.43
+
+Suzumura            Sango               605411333           333999              Checking            N/A                 Open                $    65.48
+
+Izayoi              Lauren              231876565           444444              Savings             N/A                 Open                $   119.68
+
+Pete                Megan               547463803           212121              Savings             N/A                 Open                $  1003.02
+
+Pete                Megan               547463803           100000              CD                  12/3/2024           Open                $   523.23
+
+Account Number: 111666
+Transaction Requested: Delete Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: 12/3/2023
+Success: No
+Reason for Failure/Message: Account number 111666 does not have a balance of $0.00
+Pre Transaction Balance: $3070.71
+Post Transaction Balance: $3070.71
+New Maturity Date: N/A
+
+
+                                                            Database of Bank Accounts
+
+               Total Balance: $58415.48       Total Savings Balance: $44052.21      Total Checking Balance: $10167.52            Total CD Balance: $4195.75
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+Turner              Tina                219508355           123456              Savings             N/A                 Open                $ 34567.99
+
+Zolanski            Roman               333444555           999999              CD                  11/27/2023          Open                $   345.96
+
+Icely               Gabriella           333123789           987654              CD                  8/31/2022           Open                $   255.85
+
+Suzumura            Sango               605411333           456789              CD                  6/3/2024            Open                $     0.00
+
+Maraj               Onika               109873747           111666              CD                  12/3/2023           Open                $  3070.71
+
+Stephens            Alyssa              819777777           777777              Checking            N/A                 Open                $     0.00
+
+Dlamini             Amala-Ratna         300031766           323232              Savings             N/A                 Open                $     0.00
+
+Leray               Coi                 871298666           979797              Checking            N/A                 Open                $     0.00
+
+Maraj               Onika               109873747           222555              Checking            N/A                 Open                $  9999.99
+
+Maraj               Onika               109873747           333444              Savings             N/A                 Open                $  8356.09
+
+Nelson              Jesy                307231006           555555              Checking            N/A                 Open                $   102.05
+
+Natsuumi            Manatsu             835490326           774628              Savings             N/A                 Open                $     5.43
+
+Suzumura            Sango               605411333           333999              Checking            N/A                 Open                $    65.48
+
+Izayoi              Lauren              231876565           444444              Savings             N/A                 Open                $   119.68
+
+Pete                Megan               547463803           212121              Savings             N/A                 Open                $  1003.02
+
+Pete                Megan               547463803           100000              CD                  12/3/2024           Open                $   523.23
+
+Account Number: 111666
+Transaction Requested: Withdrawal
+Date of Transaction: 12/3/2022
+Amount of Transaction: $3171.23
+Date of Check: N/A
+Old Maturity Date: 12/3/2023
+Success: No
+Reason for Failure/Message: Error: This CD has not matured yet. Try again at a later date.
+Pre Transaction Balance: $3070.71
+Post Transaction Balance: $3070.71
+New Maturity Date: N/A
+
+Account Number: 456789
+Transaction Requested: Delete Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: 6/3/2024
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $0.00
+Post Transaction Balance: $0.00
+New Maturity Date: N/A
+
+
+                                                            Database of Bank Accounts
+
+               Total Balance: $58415.48       Total Savings Balance: $44052.21      Total Checking Balance: $10167.52            Total CD Balance: $4195.75
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+Turner              Tina                219508355           123456              Savings             N/A                 Open                $ 34567.99
+
+Zolanski            Roman               333444555           999999              CD                  11/27/2023          Open                $   345.96
+
+Icely               Gabriella           333123789           987654              CD                  8/31/2022           Open                $   255.85
+
+Maraj               Onika               109873747           111666              CD                  12/3/2023           Open                $  3070.71
+
+Stephens            Alyssa              819777777           777777              Checking            N/A                 Open                $     0.00
+
+Dlamini             Amala-Ratna         300031766           323232              Savings             N/A                 Open                $     0.00
+
+Leray               Coi                 871298666           979797              Checking            N/A                 Open                $     0.00
+
+Maraj               Onika               109873747           222555              Checking            N/A                 Open                $  9999.99
+
+Maraj               Onika               109873747           333444              Savings             N/A                 Open                $  8356.09
+
+Nelson              Jesy                307231006           555555              Checking            N/A                 Open                $   102.05
+
+Natsuumi            Manatsu             835490326           774628              Savings             N/A                 Open                $     5.43
+
+Suzumura            Sango               605411333           333999              Checking            N/A                 Open                $    65.48
+
+Izayoi              Lauren              231876565           444444              Savings             N/A                 Open                $   119.68
+
+Pete                Megan               547463803           212121              Savings             N/A                 Open                $  1003.02
+
+Pete                Megan               547463803           100000              CD                  12/3/2024           Open                $   523.23
+
+
+Transaction Requested: Account Info plus Transaction History
+SSN: 109873747
+Transaction Date: 12/3/2022
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+
+Maraj               Onika               109873747           111666              CD                  12/3/2023           Open                $  3070.71
+
+
+                                        Transaction History for Account Number 111666
+
+Account Number: 111666
+Transaction Requested: New Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $3003.13
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $0.00
+Post Transaction Balance: $3003.13
+New Maturity Date: 7/7/2017
+
+Account Number: 111666
+Transaction Requested: Deposit
+Date of Transaction: 12/3/2022
+Amount of Transaction: $-9.54
+Date of Check: N/A
+Old Maturity Date: 7/7/2017
+Success: No
+Reason for Failure/Message: Error: $-9.54 is an invalid amount.
+Pre Transaction Balance: $3003.13
+Post Transaction Balance: $3003.13
+New Maturity Date: N/A
+
+Account Number: 111666
+Transaction Requested: Deposit
+Date of Transaction: 12/3/2022
+Amount of Transaction: $67.58
+Date of Check: N/A
+Old Maturity Date: 7/7/2017
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $3003.13
+Post Transaction Balance: $3070.71
+New Maturity Date: 12/3/2023
+
+Account Number: 111666
+Transaction Requested: Deposit
+Date of Transaction: 12/3/2022
+Amount of Transaction: $-9.54
+Date of Check: N/A
+Old Maturity Date: 12/3/2023
+Success: No
+Reason for Failure/Message: Error: This CD has not matured yet. Try again at a later date.
+Pre Transaction Balance: $3070.71
+Post Transaction Balance: $3070.71
+New Maturity Date: N/A
+
+Account Number: 111666
+Transaction Requested: Close Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: 12/3/2023
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $3070.71
+Post Transaction Balance: $3070.71
+New Maturity Date: N/A
+
+Account Number: 111666
+Transaction Requested: Close Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: 12/3/2023
+Success: No
+Reason for Failure/Message: Account number 111666 is already closed.
+Pre Transaction Balance: $3070.71
+Post Transaction Balance: $3070.71
+New Maturity Date: N/A
+
+Account Number: 111666
+Transaction Requested: Balance Inquiry
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: 12/3/2023
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $3070.71
+Post Transaction Balance: $3070.71
+New Maturity Date: N/A
+
+Account Number: 111666
+Transaction Requested: Deposit
+Date of Transaction: 12/3/2022
+Amount of Transaction: $67.58
+Date of Check: N/A
+Old Maturity Date: 12/3/2023
+Success: No
+Reason for Failure/Message: Error: Account number 111666 is closed.
+Pre Transaction Balance: $3070.71
+Post Transaction Balance: $3070.71
+New Maturity Date: N/A
+
+Account Number: 111666
+Transaction Requested: Reopen Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: 12/3/2023
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $3070.71
+Post Transaction Balance: $3070.71
+New Maturity Date: N/A
+
+Account Number: 111666
+Transaction Requested: Deposit
+Date of Transaction: 12/3/2022
+Amount of Transaction: $67.58
+Date of Check: N/A
+Old Maturity Date: 12/3/2023
+Success: No
+Reason for Failure/Message: Error: This CD has not matured yet. Try again at a later date.
+Pre Transaction Balance: $3070.71
+Post Transaction Balance: $3070.71
+New Maturity Date: N/A
+
+Account Number: 111666
+Transaction Requested: Clear Check
+Date of Transaction: 12/3/2022
+Amount of Transaction: $1.00
+Date of Check: 5/5/2022
+Old Maturity Date: 12/3/2023
+Success: No
+Reason for Failure/Message: Error: Account number 111666 is not a checking account.
+Pre Transaction Balance: $3070.71
+Post Transaction Balance: $3070.71
+New Maturity Date: N/A
+
+Account Number: 111666
+Transaction Requested: Delete Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: 12/3/2023
+Success: No
+Reason for Failure/Message: Account number 111666 does not have a balance of $0.00
+Pre Transaction Balance: $3070.71
+Post Transaction Balance: $3070.71
+New Maturity Date: N/A
+
+Account Number: 111666
+Transaction Requested: Withdrawal
+Date of Transaction: 12/3/2022
+Amount of Transaction: $3171.23
+Date of Check: N/A
+Old Maturity Date: 12/3/2023
+Success: No
+Reason for Failure/Message: Error: This CD has not matured yet. Try again at a later date.
+Pre Transaction Balance: $3070.71
+Post Transaction Balance: $3070.71
+New Maturity Date: N/A
+
+
+Maraj               Onika               109873747           222555              Checking            N/A                 Open                $  9999.99
+
+
+                                        Transaction History for Account Number 222555
+
+Account Number: 222555
+Transaction Requested: New Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $9999.99
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $0.00
+Post Transaction Balance: $9999.99
+New Maturity Date: N/A
+
+Account Number: 222555
+Transaction Requested: Clear Check
+Date of Transaction: 12/3/2022
+Amount of Transaction: $1.00
+Date of Check: 5/5/2022
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Error: This check is older than 6 months.
+Pre Transaction Balance: $9999.99
+Post Transaction Balance: $9999.99
+New Maturity Date: N/A
+
+Account Number: 222555
+Transaction Requested: Clear Check
+Date of Transaction: 12/3/2022
+Amount of Transaction: $1.00
+Date of Check: 5/5/2027
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Error: The date of this check has not been reached yet.
+Pre Transaction Balance: $9999.99
+Post Transaction Balance: $9999.99
+New Maturity Date: N/A
+
+Account Number: 222555
+Transaction Requested: Clear Check
+Date of Transaction: 12/3/2022
+Amount of Transaction: $1.00
+Date of Check: 6/1/2022
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Error: This check is older than 6 months.
+Pre Transaction Balance: $9999.99
+Post Transaction Balance: $9999.99
+New Maturity Date: N/A
+
+
+Maraj               Onika               109873747           333444              Savings             N/A                 Open                $  8356.09
+
+
+                                        Transaction History for Account Number 333444
+
+Account Number: 333444
+Transaction Requested: New Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $8356.09
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $0.00
+Post Transaction Balance: $8356.09
+New Maturity Date: N/A
+
+
+Account Number: 774628
+Transaction Requested: Withdrawal
+Date of Transaction: 12/3/2022
+Amount of Transaction: $5.43
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $5.43
+Post Transaction Balance: $0.00
+New Maturity Date: N/A
+
+Account Number: 774628
+Transaction Requested: Close Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $0.00
+Post Transaction Balance: $0.00
+New Maturity Date: N/A
+
+
+                                                            Database of Bank Accounts
+
+               Total Balance: $58410.05       Total Savings Balance: $44046.78      Total Checking Balance: $10167.52            Total CD Balance: $4195.75
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+Turner              Tina                219508355           123456              Savings             N/A                 Open                $ 34567.99
+
+Zolanski            Roman               333444555           999999              CD                  11/27/2023          Open                $   345.96
+
+Icely               Gabriella           333123789           987654              CD                  8/31/2022           Open                $   255.85
+
+Maraj               Onika               109873747           111666              CD                  12/3/2023           Open                $  3070.71
+
+Stephens            Alyssa              819777777           777777              Checking            N/A                 Open                $     0.00
+
+Dlamini             Amala-Ratna         300031766           323232              Savings             N/A                 Open                $     0.00
+
+Leray               Coi                 871298666           979797              Checking            N/A                 Open                $     0.00
+
+Maraj               Onika               109873747           222555              Checking            N/A                 Open                $  9999.99
+
+Maraj               Onika               109873747           333444              Savings             N/A                 Open                $  8356.09
+
+Nelson              Jesy                307231006           555555              Checking            N/A                 Open                $   102.05
+
+Natsuumi            Manatsu             835490326           774628              Savings             N/A                 Closed              $     0.00
+
+Suzumura            Sango               605411333           333999              Checking            N/A                 Open                $    65.48
+
+Izayoi              Lauren              231876565           444444              Savings             N/A                 Open                $   119.68
+
+Pete                Megan               547463803           212121              Savings             N/A                 Open                $  1003.02
+
+Pete                Megan               547463803           100000              CD                  12/3/2024           Open                $   523.23
+
+Account Number: 774628
+Transaction Requested: Close Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Account number 774628 is already closed.
+Pre Transaction Balance: $0.00
+Post Transaction Balance: $0.00
+New Maturity Date: N/A
+
+
+                                                            Database of Bank Accounts
+
+               Total Balance: $58410.05       Total Savings Balance: $44046.78      Total Checking Balance: $10167.52            Total CD Balance: $4195.75
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+Turner              Tina                219508355           123456              Savings             N/A                 Open                $ 34567.99
+
+Zolanski            Roman               333444555           999999              CD                  11/27/2023          Open                $   345.96
+
+Icely               Gabriella           333123789           987654              CD                  8/31/2022           Open                $   255.85
+
+Maraj               Onika               109873747           111666              CD                  12/3/2023           Open                $  3070.71
+
+Stephens            Alyssa              819777777           777777              Checking            N/A                 Open                $     0.00
+
+Dlamini             Amala-Ratna         300031766           323232              Savings             N/A                 Open                $     0.00
+
+Leray               Coi                 871298666           979797              Checking            N/A                 Open                $     0.00
+
+Maraj               Onika               109873747           222555              Checking            N/A                 Open                $  9999.99
+
+Maraj               Onika               109873747           333444              Savings             N/A                 Open                $  8356.09
+
+Nelson              Jesy                307231006           555555              Checking            N/A                 Open                $   102.05
+
+Natsuumi            Manatsu             835490326           774628              Savings             N/A                 Closed              $     0.00
+
+Suzumura            Sango               605411333           333999              Checking            N/A                 Open                $    65.48
+
+Izayoi              Lauren              231876565           444444              Savings             N/A                 Open                $   119.68
+
+Pete                Megan               547463803           212121              Savings             N/A                 Open                $  1003.02
+
+Pete                Megan               547463803           100000              CD                  12/3/2024           Open                $   523.23
+
+Account Number: 774628
+Transaction Requested: Delete Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $0.00
+Post Transaction Balance: $0.00
+New Maturity Date: N/A
+
+
+                                                            Database of Bank Accounts
+
+               Total Balance: $58410.05       Total Savings Balance: $44046.78      Total Checking Balance: $10167.52            Total CD Balance: $4195.75
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+Turner              Tina                219508355           123456              Savings             N/A                 Open                $ 34567.99
+
+Zolanski            Roman               333444555           999999              CD                  11/27/2023          Open                $   345.96
+
+Icely               Gabriella           333123789           987654              CD                  8/31/2022           Open                $   255.85
+
+Maraj               Onika               109873747           111666              CD                  12/3/2023           Open                $  3070.71
+
+Stephens            Alyssa              819777777           777777              Checking            N/A                 Open                $     0.00
+
+Dlamini             Amala-Ratna         300031766           323232              Savings             N/A                 Open                $     0.00
+
+Leray               Coi                 871298666           979797              Checking            N/A                 Open                $     0.00
+
+Maraj               Onika               109873747           222555              Checking            N/A                 Open                $  9999.99
+
+Maraj               Onika               109873747           333444              Savings             N/A                 Open                $  8356.09
+
+Nelson              Jesy                307231006           555555              Checking            N/A                 Open                $   102.05
+
+Suzumura            Sango               605411333           333999              Checking            N/A                 Open                $    65.48
+
+Izayoi              Lauren              231876565           444444              Savings             N/A                 Open                $   119.68
+
+Pete                Megan               547463803           212121              Savings             N/A                 Open                $  1003.02
+
+Pete                Megan               547463803           100000              CD                  12/3/2024           Open                $   523.23
+
+Account Number: 123456
+Transaction Requested: Withdrawal
+Date of Transaction: 12/3/2022
+Amount of Transaction: $34567.99
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $34567.99
+Post Transaction Balance: $0.00
+New Maturity Date: N/A
+
+Account Number: 123456
+Transaction Requested: Delete Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $0.00
+Post Transaction Balance: $0.00
+New Maturity Date: N/A
+
+
+                                                            Database of Bank Accounts
+
+               Total Balance: $23842.06       Total Savings Balance: $9478.79      Total Checking Balance: $10167.52            Total CD Balance: $4195.75
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+Zolanski            Roman               333444555           999999              CD                  11/27/2023          Open                $   345.96
+
+Icely               Gabriella           333123789           987654              CD                  8/31/2022           Open                $   255.85
+
+Maraj               Onika               109873747           111666              CD                  12/3/2023           Open                $  3070.71
+
+Stephens            Alyssa              819777777           777777              Checking            N/A                 Open                $     0.00
+
+Dlamini             Amala-Ratna         300031766           323232              Savings             N/A                 Open                $     0.00
+
+Leray               Coi                 871298666           979797              Checking            N/A                 Open                $     0.00
+
+Maraj               Onika               109873747           222555              Checking            N/A                 Open                $  9999.99
+
+Maraj               Onika               109873747           333444              Savings             N/A                 Open                $  8356.09
+
+Nelson              Jesy                307231006           555555              Checking            N/A                 Open                $   102.05
+
+Suzumura            Sango               605411333           333999              Checking            N/A                 Open                $    65.48
+
+Izayoi              Lauren              231876565           444444              Savings             N/A                 Open                $   119.68
+
+Pete                Megan               547463803           212121              Savings             N/A                 Open                $  1003.02
+
+Pete                Megan               547463803           100000              CD                  12/3/2024           Open                $   523.23
+
+Error: IRA is an invalid account type. Try again.
+Error: Brokerage is an invalid account type. Try again.
+Account Number: 222221
+Transaction Requested: New Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $65000.98
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $0.00
+Post Transaction Balance: $65000.98
+New Maturity Date: N/A
+
+
+                                                            Database of Bank Accounts
+
+               Total Balance: $88843.04       Total Savings Balance: $74479.77      Total Checking Balance: $10167.52            Total CD Balance: $4195.75
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+Zolanski            Roman               333444555           999999              CD                  11/27/2023          Open                $   345.96
+
+Icely               Gabriella           333123789           987654              CD                  8/31/2022           Open                $   255.85
+
+Maraj               Onika               109873747           111666              CD                  12/3/2023           Open                $  3070.71
+
+Stephens            Alyssa              819777777           777777              Checking            N/A                 Open                $     0.00
+
+Dlamini             Amala-Ratna         300031766           323232              Savings             N/A                 Open                $     0.00
+
+Leray               Coi                 871298666           979797              Checking            N/A                 Open                $     0.00
+
+Maraj               Onika               109873747           222555              Checking            N/A                 Open                $  9999.99
+
+Maraj               Onika               109873747           333444              Savings             N/A                 Open                $  8356.09
+
+Nelson              Jesy                307231006           555555              Checking            N/A                 Open                $   102.05
+
+Suzumura            Sango               605411333           333999              Checking            N/A                 Open                $    65.48
+
+Izayoi              Lauren              231876565           444444              Savings             N/A                 Open                $   119.68
+
+Pete                Megan               547463803           212121              Savings             N/A                 Open                $  1003.02
+
+Pete                Megan               547463803           100000              CD                  12/3/2024           Open                $   523.23
+
+Minamino            Kanade              350321380           222221              Savings             N/A                 Open                $ 65000.98
+
+Account Number: 222221
+Transaction Requested: Deposit
+Date of Transaction: 12/3/2022
+Amount of Transaction: $99.26
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $65000.98
+Post Transaction Balance: $65100.24
+New Maturity Date: N/A
+
+Account Number: 222221
+Transaction Requested: Withdrawal
+Date of Transaction: 12/3/2022
+Amount of Transaction: $13.49
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $65100.24
+Post Transaction Balance: $65086.75
+New Maturity Date: N/A
+
+
+Transaction Requested: Account Info w/o Transaction History
+SSN: 819777777
+Transaction Date: 12/3/2022
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+Stephens            Alyssa              819777777           777777              Checking            N/A                 Open                $     0.00
+
+
+Account Number: 777777
+Transaction Requested: Delete Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $0.00
+Post Transaction Balance: $0.00
+New Maturity Date: N/A
+
+
+                                                            Database of Bank Accounts
+
+               Total Balance: $88928.81       Total Savings Balance: $74565.54      Total Checking Balance: $10167.52            Total CD Balance: $4195.75
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+Zolanski            Roman               333444555           999999              CD                  11/27/2023          Open                $   345.96
+
+Icely               Gabriella           333123789           987654              CD                  8/31/2022           Open                $   255.85
+
+Maraj               Onika               109873747           111666              CD                  12/3/2023           Open                $  3070.71
+
+Dlamini             Amala-Ratna         300031766           323232              Savings             N/A                 Open                $     0.00
+
+Leray               Coi                 871298666           979797              Checking            N/A                 Open                $     0.00
+
+Maraj               Onika               109873747           222555              Checking            N/A                 Open                $  9999.99
+
+Maraj               Onika               109873747           333444              Savings             N/A                 Open                $  8356.09
+
+Nelson              Jesy                307231006           555555              Checking            N/A                 Open                $   102.05
+
+Suzumura            Sango               605411333           333999              Checking            N/A                 Open                $    65.48
+
+Izayoi              Lauren              231876565           444444              Savings             N/A                 Open                $   119.68
+
+Pete                Megan               547463803           212121              Savings             N/A                 Open                $  1003.02
+
+Pete                Megan               547463803           100000              CD                  12/3/2024           Open                $   523.23
+
+Minamino            Kanade              350321380           222221              Savings             N/A                 Open                $ 65086.75
+
+
+Transaction Requested: Account Info w/o Transaction History
+SSN: 300031766
+Transaction Date: 12/3/2022
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+Dlamini             Amala-Ratna         300031766           323232              Savings             N/A                 Open                $     0.00
+
+
+Account Number: 323232
+Transaction Requested: Delete Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $0.00
+Post Transaction Balance: $0.00
+New Maturity Date: N/A
+
+
+                                                            Database of Bank Accounts
+
+               Total Balance: $88928.81       Total Savings Balance: $74565.54      Total Checking Balance: $10167.52            Total CD Balance: $4195.75
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+Zolanski            Roman               333444555           999999              CD                  11/27/2023          Open                $   345.96
+
+Icely               Gabriella           333123789           987654              CD                  8/31/2022           Open                $   255.85
+
+Maraj               Onika               109873747           111666              CD                  12/3/2023           Open                $  3070.71
+
+Leray               Coi                 871298666           979797              Checking            N/A                 Open                $     0.00
+
+Maraj               Onika               109873747           222555              Checking            N/A                 Open                $  9999.99
+
+Maraj               Onika               109873747           333444              Savings             N/A                 Open                $  8356.09
+
+Nelson              Jesy                307231006           555555              Checking            N/A                 Open                $   102.05
+
+Suzumura            Sango               605411333           333999              Checking            N/A                 Open                $    65.48
+
+Izayoi              Lauren              231876565           444444              Savings             N/A                 Open                $   119.68
+
+Pete                Megan               547463803           212121              Savings             N/A                 Open                $  1003.02
+
+Pete                Megan               547463803           100000              CD                  12/3/2024           Open                $   523.23
+
+Minamino            Kanade              350321380           222221              Savings             N/A                 Open                $ 65086.75
+
+
+Transaction Requested: Account Info w/o Transaction History
+SSN: 871298666
+Transaction Date: 12/3/2022
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+Leray               Coi                 871298666           979797              Checking            N/A                 Open                $     0.00
+
+
+Account Number: 979797
+Transaction Requested: Delete Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $0.00
+Post Transaction Balance: $0.00
+New Maturity Date: N/A
+
+
+                                                            Database of Bank Accounts
+
+               Total Balance: $88928.81       Total Savings Balance: $74565.54      Total Checking Balance: $10167.52            Total CD Balance: $4195.75
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+Zolanski            Roman               333444555           999999              CD                  11/27/2023          Open                $   345.96
+
+Icely               Gabriella           333123789           987654              CD                  8/31/2022           Open                $   255.85
+
+Maraj               Onika               109873747           111666              CD                  12/3/2023           Open                $  3070.71
+
+Maraj               Onika               109873747           222555              Checking            N/A                 Open                $  9999.99
+
+Maraj               Onika               109873747           333444              Savings             N/A                 Open                $  8356.09
+
+Nelson              Jesy                307231006           555555              Checking            N/A                 Open                $   102.05
+
+Suzumura            Sango               605411333           333999              Checking            N/A                 Open                $    65.48
+
+Izayoi              Lauren              231876565           444444              Savings             N/A                 Open                $   119.68
+
+Pete                Megan               547463803           212121              Savings             N/A                 Open                $  1003.02
+
+Pete                Megan               547463803           100000              CD                  12/3/2024           Open                $   523.23
+
+Minamino            Kanade              350321380           222221              Savings             N/A                 Open                $ 65086.75
+
+Account Number: 111111
+Transaction Requested: New Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $8900.99
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $0.00
+Post Transaction Balance: $8900.99
+New Maturity Date: N/A
+
+
+                                                            Database of Bank Accounts
+
+               Total Balance: $97829.80       Total Savings Balance: $74565.54      Total Checking Balance: $19068.51            Total CD Balance: $4195.75
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+Zolanski            Roman               333444555           999999              CD                  11/27/2023          Open                $   345.96
+
+Icely               Gabriella           333123789           987654              CD                  8/31/2022           Open                $   255.85
+
+Maraj               Onika               109873747           111666              CD                  12/3/2023           Open                $  3070.71
+
+Maraj               Onika               109873747           222555              Checking            N/A                 Open                $  9999.99
+
+Maraj               Onika               109873747           333444              Savings             N/A                 Open                $  8356.09
+
+Nelson              Jesy                307231006           555555              Checking            N/A                 Open                $   102.05
+
+Suzumura            Sango               605411333           333999              Checking            N/A                 Open                $    65.48
+
+Izayoi              Lauren              231876565           444444              Savings             N/A                 Open                $   119.68
+
+Pete                Megan               547463803           212121              Savings             N/A                 Open                $  1003.02
+
+Pete                Megan               547463803           100000              CD                  12/3/2024           Open                $   523.23
+
+Minamino            Kanade              350321380           222221              Savings             N/A                 Open                $ 65086.75
+
+Sterling            Robin               490814588           111111              Checking            N/A                 Open                $  8900.99
+
+Account Number: 111111
+Transaction Requested: Deposit
+Date of Transaction: 12/3/2022
+Amount of Transaction: $1115.03
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $8900.99
+Post Transaction Balance: $10016.02
+New Maturity Date: N/A
+
+Account Number: 111111
+Transaction Requested: Clear Check
+Date of Transaction: 12/3/2022
+Amount of Transaction: $134.55
+Date of Check: 1/26/2027
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Error: The date of this check has not been reached yet.
+Pre Transaction Balance: $10016.02
+Post Transaction Balance: $10016.02
+New Maturity Date: N/A
+
+Account Number: 111111
+Transaction Requested: Clear Check
+Date of Transaction: 12/3/2022
+Amount of Transaction: $134.55
+Date of Check: 4/28/2022
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Error: This check is older than 6 months.
+Pre Transaction Balance: $10016.02
+Post Transaction Balance: $10016.02
+New Maturity Date: N/A
+
+Account Number: 111111
+Transaction Requested: Clear Check
+Date of Transaction: 12/3/2022
+Amount of Transaction: $134.55
+Date of Check: 6/1/2022
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Error: This check is older than 6 months.
+Pre Transaction Balance: $10016.02
+Post Transaction Balance: $10016.02
+New Maturity Date: N/A
+
+Account Number: 999999
+Transaction Requested: New Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $10537.22
+Date of Check: N/A
+Old Maturity Date: 11/27/2023
+Success: No
+Reason for Failure/Message: Account number 999999 already exists.
+Pre Transaction Balance: $345.96
+Post Transaction Balance: $345.96
+New Maturity Date: N/A
+
+
+                                                            Database of Bank Accounts
+
+               Total Balance: $98944.83       Total Savings Balance: $74565.54      Total Checking Balance: $20183.54            Total CD Balance: $4195.75
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+Zolanski            Roman               333444555           999999              CD                  11/27/2023          Open                $   345.96
+
+Icely               Gabriella           333123789           987654              CD                  8/31/2022           Open                $   255.85
+
+Maraj               Onika               109873747           111666              CD                  12/3/2023           Open                $  3070.71
+
+Maraj               Onika               109873747           222555              Checking            N/A                 Open                $  9999.99
+
+Maraj               Onika               109873747           333444              Savings             N/A                 Open                $  8356.09
+
+Nelson              Jesy                307231006           555555              Checking            N/A                 Open                $   102.05
+
+Suzumura            Sango               605411333           333999              Checking            N/A                 Open                $    65.48
+
+Izayoi              Lauren              231876565           444444              Savings             N/A                 Open                $   119.68
+
+Pete                Megan               547463803           212121              Savings             N/A                 Open                $  1003.02
+
+Pete                Megan               547463803           100000              CD                  12/3/2024           Open                $   523.23
+
+Minamino            Kanade              350321380           222221              Savings             N/A                 Open                $ 65086.75
+
+Sterling            Robin               490814588           111111              Checking            N/A                 Open                $ 10016.02
+
+Account Number: 101010
+Transaction Requested: New Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $10537.22
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $0.00
+Post Transaction Balance: $10537.22
+New Maturity Date: 6/3/2024
+
+
+                                                            Database of Bank Accounts
+
+               Total Balance: $109482.05       Total Savings Balance: $74565.54      Total Checking Balance: $20183.54            Total CD Balance: $14732.97
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+Zolanski            Roman               333444555           999999              CD                  11/27/2023          Open                $   345.96
+
+Icely               Gabriella           333123789           987654              CD                  8/31/2022           Open                $   255.85
+
+Maraj               Onika               109873747           111666              CD                  12/3/2023           Open                $  3070.71
+
+Maraj               Onika               109873747           222555              Checking            N/A                 Open                $  9999.99
+
+Maraj               Onika               109873747           333444              Savings             N/A                 Open                $  8356.09
+
+Nelson              Jesy                307231006           555555              Checking            N/A                 Open                $   102.05
+
+Suzumura            Sango               605411333           333999              Checking            N/A                 Open                $    65.48
+
+Izayoi              Lauren              231876565           444444              Savings             N/A                 Open                $   119.68
+
+Pete                Megan               547463803           212121              Savings             N/A                 Open                $  1003.02
+
+Pete                Megan               547463803           100000              CD                  12/3/2024           Open                $   523.23
+
+Minamino            Kanade              350321380           222221              Savings             N/A                 Open                $ 65086.75
+
+Sterling            Robin               490814588           111111              Checking            N/A                 Open                $ 10016.02
+
+Richie              Jewel               444932314           101010              CD                  6/3/2024            Open                $ 10537.22
+
+Account Number: 101010
+Transaction Requested: Deposit
+Date of Transaction: 12/3/2022
+Amount of Transaction: $3115.99
+Date of Check: N/A
+Old Maturity Date: 6/3/2024
+Success: No
+Reason for Failure/Message: Error: This CD has not matured yet. Try again at a later date.
+Pre Transaction Balance: $10537.22
+Post Transaction Balance: $10537.22
+New Maturity Date: N/A
+
+Account Number: 555555
+Transaction Requested: Clear Check
+Date of Transaction: 12/3/2022
+Amount of Transaction: $102.05
+Date of Check: 10/14/2022
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: You have incurred a $1.50 service fee because your account balance is below $2500.00.
+Pre Transaction Balance: $102.05
+Post Transaction Balance: $-1.50
+New Maturity Date: N/A
+
+Account Number: 555555
+Transaction Requested: Delete Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Account number 555555 does not have a balance of $0.00
+Pre Transaction Balance: $-1.50
+Post Transaction Balance: $-1.50
+New Maturity Date: N/A
+
+
+                                                            Database of Bank Accounts
+
+               Total Balance: $109378.50       Total Savings Balance: $74565.54      Total Checking Balance: $20079.99            Total CD Balance: $14732.97
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+Zolanski            Roman               333444555           999999              CD                  11/27/2023          Open                $   345.96
+
+Icely               Gabriella           333123789           987654              CD                  8/31/2022           Open                $   255.85
+
+Maraj               Onika               109873747           111666              CD                  12/3/2023           Open                $  3070.71
+
+Maraj               Onika               109873747           222555              Checking            N/A                 Open                $  9999.99
+
+Maraj               Onika               109873747           333444              Savings             N/A                 Open                $  8356.09
+
+Nelson              Jesy                307231006           555555              Checking            N/A                 Open                $    -1.50
+
+Suzumura            Sango               605411333           333999              Checking            N/A                 Open                $    65.48
+
+Izayoi              Lauren              231876565           444444              Savings             N/A                 Open                $   119.68
+
+Pete                Megan               547463803           212121              Savings             N/A                 Open                $  1003.02
+
+Pete                Megan               547463803           100000              CD                  12/3/2024           Open                $   523.23
+
+Minamino            Kanade              350321380           222221              Savings             N/A                 Open                $ 65086.75
+
+Sterling            Robin               490814588           111111              Checking            N/A                 Open                $ 10016.02
+
+Richie              Jewel               444932314           101010              CD                  6/3/2024            Open                $ 10537.22
+
+Account Number: 555555
+Transaction Requested: Clear Check
+Date of Transaction: 12/3/2022
+Amount of Transaction: $93.05
+Date of Check: 10/14/2022
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Your check bounced because you do not have sufficient funds to withdraw $93.05 from your account.
+You have incurred a penalty fee of $2.50.
+Pre Transaction Balance: $-1.50
+Post Transaction Balance: $-4.00
+New Maturity Date: N/A
+
+Account Number: 555555
+Transaction Requested: Delete Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Account number 555555 does not have a balance of $0.00
+Pre Transaction Balance: $-4.00
+Post Transaction Balance: $-4.00
+New Maturity Date: N/A
+
+
+                                                            Database of Bank Accounts
+
+               Total Balance: $109376.00       Total Savings Balance: $74565.54      Total Checking Balance: $20077.49            Total CD Balance: $14732.97
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+Zolanski            Roman               333444555           999999              CD                  11/27/2023          Open                $   345.96
+
+Icely               Gabriella           333123789           987654              CD                  8/31/2022           Open                $   255.85
+
+Maraj               Onika               109873747           111666              CD                  12/3/2023           Open                $  3070.71
+
+Maraj               Onika               109873747           222555              Checking            N/A                 Open                $  9999.99
+
+Maraj               Onika               109873747           333444              Savings             N/A                 Open                $  8356.09
+
+Nelson              Jesy                307231006           555555              Checking            N/A                 Open                $    -4.00
+
+Suzumura            Sango               605411333           333999              Checking            N/A                 Open                $    65.48
+
+Izayoi              Lauren              231876565           444444              Savings             N/A                 Open                $   119.68
+
+Pete                Megan               547463803           212121              Savings             N/A                 Open                $  1003.02
+
+Pete                Megan               547463803           100000              CD                  12/3/2024           Open                $   523.23
+
+Minamino            Kanade              350321380           222221              Savings             N/A                 Open                $ 65086.75
+
+Sterling            Robin               490814588           111111              Checking            N/A                 Open                $ 10016.02
+
+Richie              Jewel               444932314           101010              CD                  6/3/2024            Open                $ 10537.22
+
+
+Transaction Requested: Account Info w/o Transaction History
+SSN: 835490326
+Transaction Date: 12/3/2022
+
+Error: No accounts exist for this SSN.
+
+
+Transaction Requested: Account Info w/o Transaction History
+SSN: 109873747
+Transaction Date: 12/3/2022
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+Maraj               Onika               109873747           111666              CD                  12/3/2023           Open                $  3070.71
+
+Maraj               Onika               109873747           222555              Checking            N/A                 Open                $  9999.99
+
+Maraj               Onika               109873747           333444              Savings             N/A                 Open                $  8356.09
+
+
+
+Transaction Requested: Account Info w/o Transaction History
+SSN: 819777777
+Transaction Date: 12/3/2022
+
+Error: No accounts exist for this SSN.
+
+
+Transaction Requested: Account Info w/o Transaction History
+SSN: 300031766
+Transaction Date: 12/3/2022
+
+Error: No accounts exist for this SSN.
+
+
+Transaction Requested: Account Info w/o Transaction History
+SSN: 871298666
+Transaction Date: 12/3/2022
+
+Error: No accounts exist for this SSN.
+
+
+Transaction Requested: Account Info w/o Transaction History
+SSN: 350321380
+Transaction Date: 12/3/2022
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+Minamino            Kanade              350321380           222221              Savings             N/A                 Open                $ 65086.75
+
+
+
+Transaction Requested: Account Info w/o Transaction History
+SSN: 490814588
+Transaction Date: 12/3/2022
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+Sterling            Robin               490814588           111111              Checking            N/A                 Open                $ 10016.02
+
+
+
+Transaction Requested: Account Info w/o Transaction History
+SSN: 444932314
+Transaction Date: 12/3/2022
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+Richie              Jewel               444932314           101010              CD                  6/3/2024            Open                $ 10537.22
+
+
+
+Transaction Requested: Account Info w/o Transaction History
+SSN: 307231006
+Transaction Date: 12/3/2022
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+Nelson              Jesy                307231006           555555              Checking            N/A                 Open                $    -4.00
+
+
+
+Transaction Requested: Account Info w/o Transaction History
+SSN: 307231006
+Transaction Date: 12/3/2022
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+Nelson              Jesy                307231006           555555              Checking            N/A                 Open                $    -4.00
+
+
+
+Transaction Requested: Account Info plus Transaction History
+SSN: 307231006
+Transaction Date: 12/3/2022
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+
+Nelson              Jesy                307231006           555555              Checking            N/A                 Open                $    -4.00
+
+
+                                        Transaction History for Account Number 555555
+
+Account Number: 555555
+Transaction Requested: New Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $102.05
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $0.00
+Post Transaction Balance: $102.05
+New Maturity Date: N/A
+
+Account Number: 555555
+Transaction Requested: Clear Check
+Date of Transaction: 12/3/2022
+Amount of Transaction: $1.00
+Date of Check: 5/5/2022
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Error: This check is older than 6 months.
+Pre Transaction Balance: $102.05
+Post Transaction Balance: $102.05
+New Maturity Date: N/A
+
+Account Number: 555555
+Transaction Requested: Clear Check
+Date of Transaction: 12/3/2022
+Amount of Transaction: $1.00
+Date of Check: 5/5/2023
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Error: The date of this check has not been reached yet.
+Pre Transaction Balance: $102.05
+Post Transaction Balance: $102.05
+New Maturity Date: N/A
+
+Account Number: 555555
+Transaction Requested: Clear Check
+Date of Transaction: 12/3/2022
+Amount of Transaction: $1.00
+Date of Check: 6/1/2022
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Error: This check is older than 6 months.
+Pre Transaction Balance: $102.05
+Post Transaction Balance: $102.05
+New Maturity Date: N/A
+
+Account Number: 555555
+Transaction Requested: Close Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $102.05
+Post Transaction Balance: $102.05
+New Maturity Date: N/A
+
+Account Number: 555555
+Transaction Requested: Close Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Account number 555555 is already closed.
+Pre Transaction Balance: $102.05
+Post Transaction Balance: $102.05
+New Maturity Date: N/A
+
+Account Number: 555555
+Transaction Requested: Balance Inquiry
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $102.05
+Post Transaction Balance: $102.05
+New Maturity Date: N/A
+
+Account Number: 555555
+Transaction Requested: Clear Check
+Date of Transaction: 12/3/2022
+Amount of Transaction: $110.00
+Date of Check: 6/1/2022
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Error: Account number 555555 is closed.
+Pre Transaction Balance: $102.05
+Post Transaction Balance: $102.05
+New Maturity Date: N/A
+
+Account Number: 555555
+Transaction Requested: Reopen Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $102.05
+Post Transaction Balance: $102.05
+New Maturity Date: N/A
+
+Account Number: 555555
+Transaction Requested: Reopen Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Account number 555555 is already open.
+Pre Transaction Balance: $102.05
+Post Transaction Balance: $102.05
+New Maturity Date: N/A
+
+Account Number: 555555
+Transaction Requested: Clear Check
+Date of Transaction: 12/3/2022
+Amount of Transaction: $110.00
+Date of Check: 6/1/2022
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Error: This check is older than 6 months.
+Pre Transaction Balance: $102.05
+Post Transaction Balance: $102.05
+New Maturity Date: N/A
+
+Account Number: 555555
+Transaction Requested: Delete Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Account number 555555 does not have a balance of $0.00
+Pre Transaction Balance: $102.05
+Post Transaction Balance: $102.05
+New Maturity Date: N/A
+
+Account Number: 555555
+Transaction Requested: Clear Check
+Date of Transaction: 12/3/2022
+Amount of Transaction: $102.05
+Date of Check: 10/14/2022
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: You have incurred a $1.50 service fee because your account balance is below $2500.00.
+Pre Transaction Balance: $102.05
+Post Transaction Balance: $-1.50
+New Maturity Date: N/A
+
+Account Number: 555555
+Transaction Requested: Delete Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Account number 555555 does not have a balance of $0.00
+Pre Transaction Balance: $-1.50
+Post Transaction Balance: $-1.50
+New Maturity Date: N/A
+
+Account Number: 555555
+Transaction Requested: Clear Check
+Date of Transaction: 12/3/2022
+Amount of Transaction: $93.05
+Date of Check: 10/14/2022
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Your check bounced because you do not have sufficient funds to withdraw $93.05 from your account.
+You have incurred a penalty fee of $2.50.
+Pre Transaction Balance: $-1.50
+Post Transaction Balance: $-4.00
+New Maturity Date: N/A
+
+Account Number: 555555
+Transaction Requested: Delete Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Account number 555555 does not have a balance of $0.00
+Pre Transaction Balance: $-4.00
+Post Transaction Balance: $-4.00
+New Maturity Date: N/A
+
+
+
+Transaction Requested: Account Info plus Transaction History
+SSN: 835490326
+Transaction Date: 12/3/2022
+
+Error: No accounts exist for this SSN.
+
+
+Transaction Requested: Account Info plus Transaction History
+SSN: 109873747
+Transaction Date: 12/3/2022
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+
+Maraj               Onika               109873747           111666              CD                  12/3/2023           Open                $  3070.71
+
+
+                                        Transaction History for Account Number 111666
+
+Account Number: 111666
+Transaction Requested: New Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $3003.13
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $0.00
+Post Transaction Balance: $3003.13
+New Maturity Date: 7/7/2017
+
+Account Number: 111666
+Transaction Requested: Deposit
+Date of Transaction: 12/3/2022
+Amount of Transaction: $-9.54
+Date of Check: N/A
+Old Maturity Date: 7/7/2017
+Success: No
+Reason for Failure/Message: Error: $-9.54 is an invalid amount.
+Pre Transaction Balance: $3003.13
+Post Transaction Balance: $3003.13
+New Maturity Date: N/A
+
+Account Number: 111666
+Transaction Requested: Deposit
+Date of Transaction: 12/3/2022
+Amount of Transaction: $67.58
+Date of Check: N/A
+Old Maturity Date: 7/7/2017
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $3003.13
+Post Transaction Balance: $3070.71
+New Maturity Date: 12/3/2023
+
+Account Number: 111666
+Transaction Requested: Deposit
+Date of Transaction: 12/3/2022
+Amount of Transaction: $-9.54
+Date of Check: N/A
+Old Maturity Date: 12/3/2023
+Success: No
+Reason for Failure/Message: Error: This CD has not matured yet. Try again at a later date.
+Pre Transaction Balance: $3070.71
+Post Transaction Balance: $3070.71
+New Maturity Date: N/A
+
+Account Number: 111666
+Transaction Requested: Close Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: 12/3/2023
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $3070.71
+Post Transaction Balance: $3070.71
+New Maturity Date: N/A
+
+Account Number: 111666
+Transaction Requested: Close Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: 12/3/2023
+Success: No
+Reason for Failure/Message: Account number 111666 is already closed.
+Pre Transaction Balance: $3070.71
+Post Transaction Balance: $3070.71
+New Maturity Date: N/A
+
+Account Number: 111666
+Transaction Requested: Balance Inquiry
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: 12/3/2023
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $3070.71
+Post Transaction Balance: $3070.71
+New Maturity Date: N/A
+
+Account Number: 111666
+Transaction Requested: Deposit
+Date of Transaction: 12/3/2022
+Amount of Transaction: $67.58
+Date of Check: N/A
+Old Maturity Date: 12/3/2023
+Success: No
+Reason for Failure/Message: Error: Account number 111666 is closed.
+Pre Transaction Balance: $3070.71
+Post Transaction Balance: $3070.71
+New Maturity Date: N/A
+
+Account Number: 111666
+Transaction Requested: Reopen Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: 12/3/2023
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $3070.71
+Post Transaction Balance: $3070.71
+New Maturity Date: N/A
+
+Account Number: 111666
+Transaction Requested: Deposit
+Date of Transaction: 12/3/2022
+Amount of Transaction: $67.58
+Date of Check: N/A
+Old Maturity Date: 12/3/2023
+Success: No
+Reason for Failure/Message: Error: This CD has not matured yet. Try again at a later date.
+Pre Transaction Balance: $3070.71
+Post Transaction Balance: $3070.71
+New Maturity Date: N/A
+
+Account Number: 111666
+Transaction Requested: Clear Check
+Date of Transaction: 12/3/2022
+Amount of Transaction: $1.00
+Date of Check: 5/5/2022
+Old Maturity Date: 12/3/2023
+Success: No
+Reason for Failure/Message: Error: Account number 111666 is not a checking account.
+Pre Transaction Balance: $3070.71
+Post Transaction Balance: $3070.71
+New Maturity Date: N/A
+
+Account Number: 111666
+Transaction Requested: Delete Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: 12/3/2023
+Success: No
+Reason for Failure/Message: Account number 111666 does not have a balance of $0.00
+Pre Transaction Balance: $3070.71
+Post Transaction Balance: $3070.71
+New Maturity Date: N/A
+
+Account Number: 111666
+Transaction Requested: Withdrawal
+Date of Transaction: 12/3/2022
+Amount of Transaction: $3171.23
+Date of Check: N/A
+Old Maturity Date: 12/3/2023
+Success: No
+Reason for Failure/Message: Error: This CD has not matured yet. Try again at a later date.
+Pre Transaction Balance: $3070.71
+Post Transaction Balance: $3070.71
+New Maturity Date: N/A
+
+
+Maraj               Onika               109873747           222555              Checking            N/A                 Open                $  9999.99
+
+
+                                        Transaction History for Account Number 222555
+
+Account Number: 222555
+Transaction Requested: New Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $9999.99
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $0.00
+Post Transaction Balance: $9999.99
+New Maturity Date: N/A
+
+Account Number: 222555
+Transaction Requested: Clear Check
+Date of Transaction: 12/3/2022
+Amount of Transaction: $1.00
+Date of Check: 5/5/2022
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Error: This check is older than 6 months.
+Pre Transaction Balance: $9999.99
+Post Transaction Balance: $9999.99
+New Maturity Date: N/A
+
+Account Number: 222555
+Transaction Requested: Clear Check
+Date of Transaction: 12/3/2022
+Amount of Transaction: $1.00
+Date of Check: 5/5/2027
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Error: The date of this check has not been reached yet.
+Pre Transaction Balance: $9999.99
+Post Transaction Balance: $9999.99
+New Maturity Date: N/A
+
+Account Number: 222555
+Transaction Requested: Clear Check
+Date of Transaction: 12/3/2022
+Amount of Transaction: $1.00
+Date of Check: 6/1/2022
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Error: This check is older than 6 months.
+Pre Transaction Balance: $9999.99
+Post Transaction Balance: $9999.99
+New Maturity Date: N/A
+
+
+Maraj               Onika               109873747           333444              Savings             N/A                 Open                $  8356.09
+
+
+                                        Transaction History for Account Number 333444
+
+Account Number: 333444
+Transaction Requested: New Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $8356.09
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $0.00
+Post Transaction Balance: $8356.09
+New Maturity Date: N/A
+
+
+
+Transaction Requested: Account Info plus Transaction History
+SSN: 819777777
+Transaction Date: 12/3/2022
+
+Error: No accounts exist for this SSN.
+
+
+Transaction Requested: Account Info plus Transaction History
+SSN: 300031766
+Transaction Date: 12/3/2022
+
+Error: No accounts exist for this SSN.
+
+
+Transaction Requested: Account Info plus Transaction History
+SSN: 871298666
+Transaction Date: 12/3/2022
+
+Error: No accounts exist for this SSN.
+
+
+Transaction Requested: Account Info plus Transaction History
+SSN: 350321380
+Transaction Date: 12/3/2022
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+
+Minamino            Kanade              350321380           222221              Savings             N/A                 Open                $ 65086.75
+
+
+                                        Transaction History for Account Number 222221
+
+Account Number: 222221
+Transaction Requested: New Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $65000.98
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $0.00
+Post Transaction Balance: $65000.98
+New Maturity Date: N/A
+
+Account Number: 222221
+Transaction Requested: Deposit
+Date of Transaction: 12/3/2022
+Amount of Transaction: $99.26
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $65000.98
+Post Transaction Balance: $65100.24
+New Maturity Date: N/A
+
+Account Number: 222221
+Transaction Requested: Withdrawal
+Date of Transaction: 12/3/2022
+Amount of Transaction: $13.49
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $65100.24
+Post Transaction Balance: $65086.75
+New Maturity Date: N/A
+
+
+
+Transaction Requested: Account Info plus Transaction History
+SSN: 490814588
+Transaction Date: 12/3/2022
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+
+Sterling            Robin               490814588           111111              Checking            N/A                 Open                $ 10016.02
+
+
+                                        Transaction History for Account Number 111111
+
+Account Number: 111111
+Transaction Requested: New Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $8900.99
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $0.00
+Post Transaction Balance: $8900.99
+New Maturity Date: N/A
+
+Account Number: 111111
+Transaction Requested: Deposit
+Date of Transaction: 12/3/2022
+Amount of Transaction: $1115.03
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $8900.99
+Post Transaction Balance: $10016.02
+New Maturity Date: N/A
+
+Account Number: 111111
+Transaction Requested: Clear Check
+Date of Transaction: 12/3/2022
+Amount of Transaction: $134.55
+Date of Check: 1/26/2027
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Error: The date of this check has not been reached yet.
+Pre Transaction Balance: $10016.02
+Post Transaction Balance: $10016.02
+New Maturity Date: N/A
+
+Account Number: 111111
+Transaction Requested: Clear Check
+Date of Transaction: 12/3/2022
+Amount of Transaction: $134.55
+Date of Check: 4/28/2022
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Error: This check is older than 6 months.
+Pre Transaction Balance: $10016.02
+Post Transaction Balance: $10016.02
+New Maturity Date: N/A
+
+Account Number: 111111
+Transaction Requested: Clear Check
+Date of Transaction: 12/3/2022
+Amount of Transaction: $134.55
+Date of Check: 6/1/2022
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Error: This check is older than 6 months.
+Pre Transaction Balance: $10016.02
+Post Transaction Balance: $10016.02
+New Maturity Date: N/A
+
+Account Number: 999999
+Transaction Requested: New Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $10537.22
+Date of Check: N/A
+Old Maturity Date: 11/27/2023
+Success: No
+Reason for Failure/Message: Account number 999999 already exists.
+Pre Transaction Balance: $345.96
+Post Transaction Balance: $345.96
+New Maturity Date: N/A
+
+
+
+Transaction Requested: Account Info plus Transaction History
+SSN: 444932314
+Transaction Date: 12/3/2022
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+
+Richie              Jewel               444932314           101010              CD                  6/3/2024            Open                $ 10537.22
+
+
+                                        Transaction History for Account Number 101010
+
+Account Number: 101010
+Transaction Requested: New Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $10537.22
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $0.00
+Post Transaction Balance: $10537.22
+New Maturity Date: 6/3/2024
+
+Account Number: 101010
+Transaction Requested: Deposit
+Date of Transaction: 12/3/2022
+Amount of Transaction: $3115.99
+Date of Check: N/A
+Old Maturity Date: 6/3/2024
+Success: No
+Reason for Failure/Message: Error: This CD has not matured yet. Try again at a later date.
+Pre Transaction Balance: $10537.22
+Post Transaction Balance: $10537.22
+New Maturity Date: N/A
+
+
+
+Transaction Requested: Account Info plus Transaction History
+SSN: 307231006
+Transaction Date: 12/3/2022
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+
+Nelson              Jesy                307231006           555555              Checking            N/A                 Open                $    -4.00
+
+
+                                        Transaction History for Account Number 555555
+
+Account Number: 555555
+Transaction Requested: New Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $102.05
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $0.00
+Post Transaction Balance: $102.05
+New Maturity Date: N/A
+
+Account Number: 555555
+Transaction Requested: Clear Check
+Date of Transaction: 12/3/2022
+Amount of Transaction: $1.00
+Date of Check: 5/5/2022
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Error: This check is older than 6 months.
+Pre Transaction Balance: $102.05
+Post Transaction Balance: $102.05
+New Maturity Date: N/A
+
+Account Number: 555555
+Transaction Requested: Clear Check
+Date of Transaction: 12/3/2022
+Amount of Transaction: $1.00
+Date of Check: 5/5/2023
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Error: The date of this check has not been reached yet.
+Pre Transaction Balance: $102.05
+Post Transaction Balance: $102.05
+New Maturity Date: N/A
+
+Account Number: 555555
+Transaction Requested: Clear Check
+Date of Transaction: 12/3/2022
+Amount of Transaction: $1.00
+Date of Check: 6/1/2022
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Error: This check is older than 6 months.
+Pre Transaction Balance: $102.05
+Post Transaction Balance: $102.05
+New Maturity Date: N/A
+
+Account Number: 555555
+Transaction Requested: Close Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $102.05
+Post Transaction Balance: $102.05
+New Maturity Date: N/A
+
+Account Number: 555555
+Transaction Requested: Close Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Account number 555555 is already closed.
+Pre Transaction Balance: $102.05
+Post Transaction Balance: $102.05
+New Maturity Date: N/A
+
+Account Number: 555555
+Transaction Requested: Balance Inquiry
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $102.05
+Post Transaction Balance: $102.05
+New Maturity Date: N/A
+
+Account Number: 555555
+Transaction Requested: Clear Check
+Date of Transaction: 12/3/2022
+Amount of Transaction: $110.00
+Date of Check: 6/1/2022
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Error: Account number 555555 is closed.
+Pre Transaction Balance: $102.05
+Post Transaction Balance: $102.05
+New Maturity Date: N/A
+
+Account Number: 555555
+Transaction Requested: Reopen Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $102.05
+Post Transaction Balance: $102.05
+New Maturity Date: N/A
+
+Account Number: 555555
+Transaction Requested: Reopen Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Account number 555555 is already open.
+Pre Transaction Balance: $102.05
+Post Transaction Balance: $102.05
+New Maturity Date: N/A
+
+Account Number: 555555
+Transaction Requested: Clear Check
+Date of Transaction: 12/3/2022
+Amount of Transaction: $110.00
+Date of Check: 6/1/2022
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Error: This check is older than 6 months.
+Pre Transaction Balance: $102.05
+Post Transaction Balance: $102.05
+New Maturity Date: N/A
+
+Account Number: 555555
+Transaction Requested: Delete Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Account number 555555 does not have a balance of $0.00
+Pre Transaction Balance: $102.05
+Post Transaction Balance: $102.05
+New Maturity Date: N/A
+
+Account Number: 555555
+Transaction Requested: Clear Check
+Date of Transaction: 12/3/2022
+Amount of Transaction: $102.05
+Date of Check: 10/14/2022
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: You have incurred a $1.50 service fee because your account balance is below $2500.00.
+Pre Transaction Balance: $102.05
+Post Transaction Balance: $-1.50
+New Maturity Date: N/A
+
+Account Number: 555555
+Transaction Requested: Delete Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Account number 555555 does not have a balance of $0.00
+Pre Transaction Balance: $-1.50
+Post Transaction Balance: $-1.50
+New Maturity Date: N/A
+
+Account Number: 555555
+Transaction Requested: Clear Check
+Date of Transaction: 12/3/2022
+Amount of Transaction: $93.05
+Date of Check: 10/14/2022
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Your check bounced because you do not have sufficient funds to withdraw $93.05 from your account.
+You have incurred a penalty fee of $2.50.
+Pre Transaction Balance: $-1.50
+Post Transaction Balance: $-4.00
+New Maturity Date: N/A
+
+Account Number: 555555
+Transaction Requested: Delete Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: No
+Reason for Failure/Message: Account number 555555 does not have a balance of $0.00
+Pre Transaction Balance: $-4.00
+Post Transaction Balance: $-4.00
+New Maturity Date: N/A
+
+
+
+Transaction Requested: Account Info plus Transaction History
+SSN: 333444555
+Transaction Date: 12/3/2022
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+
+Zolanski            Roman               333444555           999999              CD                  11/27/2023          Open                $   345.96
+
+
+                                        Transaction History for Account Number 999999
+
+Account Number: 999999
+Transaction Requested: New Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $345.96
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $0.00
+Post Transaction Balance: $345.96
+New Maturity Date: 11/27/2023
+
+Account Number: 999999
+Transaction Requested: Balance Inquiry
+Date of Transaction: 12/3/2022
+Amount of Transaction: $0.00
+Date of Check: N/A
+Old Maturity Date: 11/27/2023
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $345.96
+Post Transaction Balance: $345.96
+New Maturity Date: N/A
+
+Account Number: 999999
+Transaction Requested: Deposit
+Date of Transaction: 12/3/2022
+Amount of Transaction: $1267.88
+Date of Check: N/A
+Old Maturity Date: 11/27/2023
+Success: No
+Reason for Failure/Message: Error: This CD has not matured yet. Try again at a later date.
+Pre Transaction Balance: $345.96
+Post Transaction Balance: $345.96
+New Maturity Date: N/A
+
+
+Account Number: 987654
+Transaction Requested: Withdrawal
+Date of Transaction: 12/3/2022
+Amount of Transaction: $1785.54
+Date of Check: N/A
+Old Maturity Date: 8/31/2022
+Success: No
+Reason for Failure/Message: Error: You do not have sufficient funds to withdraw $1785.54 from your account.
+Pre Transaction Balance: $255.85
+Post Transaction Balance: $255.85
+New Maturity Date: N/A
+
+Error: 2 months is an invalid maturity date. Try again.
+Error: 7 months is an invalid maturity date. Try again.
+Account Number: 987654
+Transaction Requested: Deposit
+Date of Transaction: 12/3/2022
+Amount of Transaction: $1785.54
+Date of Check: N/A
+Old Maturity Date: 8/31/2022
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $255.85
+Post Transaction Balance: $2041.39
+New Maturity Date: 6/3/2024
+
+Account Number: 987654
+Transaction Requested: Withdrawal
+Date of Transaction: 12/3/2022
+Amount of Transaction: $41.45
+Date of Check: N/A
+Old Maturity Date: 6/3/2024
+Success: No
+Reason for Failure/Message: Error: This CD has not matured yet. Try again at a later date.
+Pre Transaction Balance: $2041.39
+Post Transaction Balance: $2041.39
+New Maturity Date: N/A
+
+
+Transaction Requested: Account Info w/o Transaction History
+SSN: 333123789
+Transaction Date: 12/3/2022
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+Icely               Gabriella           333123789           987654              CD                  6/3/2024            Open                $  2041.39
+
+
+
+Transaction Requested: Account Info plus Transaction History
+SSN: 333123789
+Transaction Date: 12/3/2022
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+
+Icely               Gabriella           333123789           987654              CD                  6/3/2024            Open                $  2041.39
+
+
+                                        Transaction History for Account Number 987654
+
+Account Number: 987654
+Transaction Requested: New Account
+Date of Transaction: 12/3/2022
+Amount of Transaction: $255.85
+Date of Check: N/A
+Old Maturity Date: N/A
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $0.00
+Post Transaction Balance: $255.85
+New Maturity Date: 8/31/2022
+
+Account Number: 987654
+Transaction Requested: Withdrawal
+Date of Transaction: 12/3/2022
+Amount of Transaction: $1785.54
+Date of Check: N/A
+Old Maturity Date: 8/31/2022
+Success: No
+Reason for Failure/Message: Error: You do not have sufficient funds to withdraw $1785.54 from your account.
+Pre Transaction Balance: $255.85
+Post Transaction Balance: $255.85
+New Maturity Date: N/A
+
+Account Number: 987654
+Transaction Requested: Deposit
+Date of Transaction: 12/3/2022
+Amount of Transaction: $1785.54
+Date of Check: N/A
+Old Maturity Date: 8/31/2022
+Success: Yes
+Reason for Failure/Message: N/A
+Pre Transaction Balance: $255.85
+Post Transaction Balance: $2041.39
+New Maturity Date: 6/3/2024
+
+Account Number: 987654
+Transaction Requested: Withdrawal
+Date of Transaction: 12/3/2022
+Amount of Transaction: $41.45
+Date of Check: N/A
+Old Maturity Date: 6/3/2024
+Success: No
+Reason for Failure/Message: Error: This CD has not matured yet. Try again at a later date.
+Pre Transaction Balance: $2041.39
+Post Transaction Balance: $2041.39
+New Maturity Date: N/A
+
+
+Error: y is an invalid selection. Try again.
+
+Error: u is an invalid selection. Try again.
+
+Error: a is an invalid selection. Try again.
+
+
+                                                            Database of Bank Accounts
+
+               Total Balance: $111161.54       Total Savings Balance: $74565.54      Total Checking Balance: $20077.49            Total CD Balance: $16518.51
+
+Last Name           First Name          SSN                 Account Number      Account Type        Maturity Date       Account Status      Balance             
+Zolanski            Roman               333444555           999999              CD                  11/27/2023          Open                $   345.96
+
+Icely               Gabriella           333123789           987654              CD                  6/3/2024            Open                $  2041.39
+
+Maraj               Onika               109873747           111666              CD                  12/3/2023           Open                $  3070.71
+
+Maraj               Onika               109873747           222555              Checking            N/A                 Open                $  9999.99
+
+Maraj               Onika               109873747           333444              Savings             N/A                 Open                $  8356.09
+
+Nelson              Jesy                307231006           555555              Checking            N/A                 Open                $    -4.00
+
+Suzumura            Sango               605411333           333999              Checking            N/A                 Open                $    65.48
+
+Izayoi              Lauren              231876565           444444              Savings             N/A                 Open                $   119.68
+
+Pete                Megan               547463803           212121              Savings             N/A                 Open                $  1003.02
+
+Pete                Megan               547463803           100000              CD                  12/3/2024           Open                $   523.23
+
+Minamino            Kanade              350321380           222221              Savings             N/A                 Open                $ 65086.75
+
+Sterling            Robin               490814588           111111              Checking            N/A                 Open                $ 10016.02
+
+Richie              Jewel               444932314           101010              CD                  6/3/2024            Open                $ 10537.22
+
